@@ -2,6 +2,14 @@
 
 # (Flexible structural AlignmenT by Chaining AFPs with Twist)
 
+## Intro
+
+FATCAT is the software package behind https://fatcat.godziklab.org
+
+* Zhanwen Li, Lukasz Jaroszewski, Mallika Iyer, Mayya Sedova, Adam Godzik, FATCAT 2.0: towards a better understanding of the structural diversity of proteins, Nucleic Acids Research, Volume 48, Issue W1, 02 July 2020, Pages W60–W64, https://doi.org/10.1093/nar/gkaa443
+
+* Ye Y, Godzik A. FATCAT: a web server for flexible structure comparison and structure similarity searching. Nucleic Acids Res. 2004;32(Web Server issue):W582-W585. http://doi:10.1093/nar/gkh430
+
 ## Installation 
 
 Run 

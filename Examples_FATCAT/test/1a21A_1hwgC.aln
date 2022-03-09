@@ -1,0 +1,23 @@
+Align 1a21A.pdb 194 with 1hwgC.pdb 191
+Twists 1 ini-len 120 ini-rmsd 3.04 opt-equ 150 opt-rmsd 2.96 chain-rmsd 4.21 Score 233.34 align-len 210 gaps 60 (28.57%)
+P-value 1.15e-05 Afp-num 12696 Identity 9.52% Similarity 19.05%
+Block  0 afp  4 score 66.42 rmsd  2.03 gap 6 (0.16%)
+Block  1 afp 11 score 184.29 rmsd  3.24 gap 69 (0.44%)
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:    6 RAYNLTWKSTN-FKTILEWEPKSIDHVYTVQISTRLENWKSKCFLTAE---TECDLTDEVVKDVGQTYMA
+              11111111111 111111111     111111111111111111       222222222   222222 
+Chain 2:   32 EPKFTKCRSPERETFSCHWTD-----PIQLFYTRRNQEWKECPDYVSAGENSCYFNSSFT---SIWIPYC
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:   72 RVLSYPARNTTGFPEEPPFRNSPEFTPYLDTNLGQPTIQSFEQVG-------TKLNVTVQDARTLVTFLS
+                                    22222222222222222222222       222222222222   222
+Chain 2:  109 IKLTSNGGTVDE----------KCFSVDEIVQPDPPIALNWTLLNVSLTGIHADIQVRWEAPRN---ADI
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  141 LRAVFGKDLNYTLYYWR-----KKTAT-TNTNEFLIDVDKGE-NYCFSVQAVIPSRKRKQRSPESLTECT
+              222222  222222222     22222 22222222222222 2222222222222  222222222222
+Chain 2:  166 QKGWMV--LEYELQYKEVNETKWKMMDPILTTSVPVYSLKVDKEYEVRVRSKQRNS--GNYGEFSEVLYV
+
+Note: positions are from PDB; the numbers between alignments are block index
+

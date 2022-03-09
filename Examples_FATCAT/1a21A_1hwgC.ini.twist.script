@@ -1,0 +1,30 @@
+#!rasmol -script
+# File: 1a21A_1hwgC.ini.twist.script
+# Creator: FATCAT
+
+zap
+load pdb "1a21A_1hwgC.ini.twist.pdb"
+background white
+set ambient 40
+set specular on
+wireframe off
+
+select all
+cartoon
+
+select *A
+color [219,219,219]
+select *B
+color [232,232,232]
+
+ 
+select 10-46A
+color [181,181,181]
+select 36-83B
+color [255,0,0]
+
+select 52-205A
+color [181,181,181]
+select 91-228B
+color [205,0,205]
+

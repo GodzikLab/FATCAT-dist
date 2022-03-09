@@ -1,0 +1,35 @@
+#! /bin/sh -
+
+currdir=`pwd`
+
+cd ./FATCATMain
+
+if(test -d "/usr/include/c++/") then
+	cp basic_90.h basic.h
+else	cp basic_73.h basic.h
+fi
+
+make
+
+echo
+echo "make is completed"
+echo 
+echo "====================================================================="
+echo "NOTE 1: please setup the FATCAT environment for correct FATCAT usage"
+echo "export FATCAT=$currdir  # add to .bashrc"
+echo "setenv FATCAT $currdir  # add to .cshrc"
+echo "NOTE 2: please include the path of $currdir/FATCATMain into the .login file"
+echo "so that you can run FATCAT under any directory"
+echo "====================================================================="
+echo
+echo "====================================================================="
+echo "Please do a simple FATCAT test"
+echo "go to the ./Examples_FATCAT"
+echo "excute \"FATCAT -p1 1a21A.pdb -p2 1hwgC.pdb -o 1a21A_1hwgC -m -ac -t\""
+echo "once the job is completed, excute \"diff 1a21A_1hwgC.aln compare.aln\""
+echo "if no difference is found in comparing the two files, then FATCAT is ok"
+echo "====================================================================="
+echo
+echo "Please read the Readme file for more details of FATCAT usage"
+echo
+echo "Installation is completed"

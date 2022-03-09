@@ -1,0 +1,1588 @@
+Align 1lit_.pdb 131 with 1rtm1.pdb 149
+Twists 0 ini-len 104 ini-rmsd 1.97 opt-equ 121 opt-rmsd 2.18 chain-rmsd 1.97 Score 245.79 align-len 132 gaps 11 (8.33%)
+P-value 1.81e-11 Afp-num 5411 Identity 15.15% Similarity 34.09%
+Block  0 afp 13 score 245.79 rmsd  1.97 gap 23 (0.18%)
+
+Chain 1:    1 CPEGTNAYRSYCYYFNEDRETWVDADLYCQNMNSGNLVSVLTQAEGAFVASLIKESGTDDFNVWIGLHDP
+              11111111111111111111111111111111 111111111111111111111      1111111111
+Chain 2:   28 AFSMGKKSGKKFFVTNHERMPFSKVKALCSEL-RGTVAIPRNAEENKAIQEVAK------TSAFLGITDE
+
+Chain 1:   71 KKNRRWHWSSGSLVSYKSWGIGAPSSVN-PGYCVSLTSSTGFQKWKDVPCEDKFSFVCKFKN
+              1111111111111111111111111111 111111111   111111111111111111111
+Chain 2:   91 VTEGQFMYVTGGRLTYSNWKKDEPNDHGSGEDCVTIVD---NGLWNDISCQASHTAVCEFPA
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1ryt_.pdb 190
+Twists 2 ini-len 56 ini-rmsd 3.08 opt-equ 71 opt-rmsd 2.92 chain-rmsd 14.79 Score 68.80 align-len 175 gaps 104 (59.43%)
+P-value 4.85e-01 Afp-num 5815 Identity 1.71% Similarity 8.57%
+Block  0 afp  3 score 48.18 rmsd  3.87 gap 1 (0.04%)
+Block  1 afp  2 score 47.67 rmsd  0.40 gap 0 (0.00%)
+Block  2 afp  2 score 27.50 rmsd  3.27 gap 1 (0.06%)
+
+Chain 1:    1 CPEGTN-------------------------------AYRSYCYY---------------FNEDRETWVD
+              111111                               111111                 1111111111
+Chain 2:   15 AFAGESQARNRYNYFGGQAKKDGFVQISDIFAETADQEREHAKRLFKFLEGGDLEIVAAFPAGIIADTHA
+
+Chain 1:   25 ADLYCQNMNSGNLVSVL------------TQAEGAFVASLIKESGTDDFNVWIG----------------
+              1111111111                   2222222222222222                         
+Chain 2:   85 NLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRFLDFARNIKEGRVFLREQATK
+
+Chain 1:   67 -------LHDPKKNRRW---HWSSGSLVSYKSWGI
+                     333  33333   333333333333333
+Chain 2:  155 WRCRNCGYVH--EGTGAPELCPACAHPKAHFELLG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1bcfA.pdb 158
+Twists 1 ini-len 32 ini-rmsd 0.88 opt-equ 44 opt-rmsd 2.54 chain-rmsd 6.28 Score 62.13 align-len 104 gaps 60 (57.69%)
+P-value 4.72e-01 Afp-num 4095 Identity 1.92% Similarity 5.77%
+Block  0 afp  2 score 44.32 rmsd  1.21 gap 0 (0.00%)
+Block  1 afp  2 score 47.81 rmsd  0.31 gap 0 (0.00%)
+
+Chain 1:    2 PEGTNAYRSYCYYFNEDR--------------------------------------ETWVDADLYCQNMN
+              1111       1111  1                                      11111111111111
+Chain 2:    4 DTKV-------INYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLE
+
+Chain 1:   34 SGNLVSVL----------TQAEGAFVASLIKESG
+              11111             2222222222222222
+Chain 2:   67 GLPNLQDLGKLNIGEDVEEMLRSDLALELDGAKN
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1rcd_.pdb 171
+Twists 1 ini-len 32 ini-rmsd 0.90 opt-equ 49 opt-rmsd 2.75 chain-rmsd 8.10 Score 61.61 align-len 106 gaps 57 (53.77%)
+P-value 5.00e-01 Afp-num 4602 Identity 4.72% Similarity 8.49%
+Block  0 afp  2 score 43.78 rmsd  1.22 gap 0 (0.00%)
+Block  1 afp  2 score 47.83 rmsd  0.36 gap 0 (0.00%)
+
+Chain 1:    2 PEGTNAYRSYCYYFNEDR----------------------------------------ETWVDADLYCQN
+              11111      1111  1                                        111111111111
+Chain 2:    7 FHQDC------EAGLNRTVNLKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQ
+
+Chain 1:   32 MNSGNLV---------SVLTQAEGAFVASLIKESGT
+              1111111         22222222222222222222
+Chain 2:   71 RGGRVFLQSVEKPERDDWANGLEALQTALKLQKSVN
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1qorA.pdb 326
+Twists 1 ini-len 40 ini-rmsd 5.48 opt-equ 61 opt-rmsd 3.66 chain-rmsd 8.28 Score 81.70 align-len 126 gaps 65 (51.59%)
+P-value 5.83e-01 Afp-num 13252 Identity 3.97% Similarity 15.08%
+Block  0 afp  3 score 49.78 rmsd  3.89 gap 5 (0.17%)
+Block  1 afp  2 score 46.22 rmsd  1.10 gap 0 (0.00%)
+
+Chain 1:    4 GTNAYRSYCYYFNEDRETWVDADLYCQNMNSGNLVSVLTQAEGAFVASLIKESGTDDFNVWIGLHDPKKN
+              11    11111     1111111111111111122222222222222222         2222       
+Chain 2:  135 YEIKPDEQFLFHAAAGGVGLIACQWAKALGAKLIGTVGTAQKAQSALKAGA--------WQVIN------
+
+Chain 1:   74 RRWHWSSGSLVSYKSWGIGAPSSVNPGYCVSLTSSTGFQKWKDVPCEDKFSFVCKF
+                        2222             222            222222     222
+Chain 2:  191 ----------YREEDLV----------ERLK-----------EITGGKKVRVVYDS
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 2ohxA.pdb 374
+Twists 2 ini-len 48 ini-rmsd 3.85 opt-equ 50 opt-rmsd 2.91 chain-rmsd 11.05 Score 64.24 align-len 57 gaps 7 (12.28%)
+P-value 8.99e-01 Afp-num 15280 Identity 8.77% Similarity 14.04%
+Block  0 afp  2 score 36.85 rmsd  2.18 gap 0 (0.00%)
+Block  1 afp  3 score 52.32 rmsd  3.73 gap 1 (0.04%)
+Block  2 afp  1 score 21.22 rmsd  1.36 gap 0 (0.00%)
+
+Chain 1:   18 DRETWVDADLYCQNMNSGN------LVSVLTQAEGAFVASLIKESGTDDFNVWIGLH
+              111111111111111111       22222222222222222222222233333333
+Chain 2:  170 CLIGCGFSTGYGSAVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGAARIIGVDINK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1igd_.pdb 61
+Twists 0 ini-len 32 ini-rmsd 3.98 opt-equ 44 opt-rmsd 4.30 chain-rmsd 3.98 Score 59.30 align-len 74 gaps 30 (40.54%)
+P-value 2.01e-01 Afp-num 1953 Identity 4.05% Similarity 17.57%
+Block  0 afp  4 score 59.30 rmsd  3.98 gap 38 (0.54%)
+
+Chain 1:    9 RSYCYYFNEDRETWVDADLYCQNMNSGNLVSVLTQAEGAFVASLIKESGTDDFNVWIGLHDPKKNRRWHW
+              11111111111               1   1111111111111111111111 11111           1
+Chain 2:    5 VTTYKLVINGKTLKGE----------TTTKAVDAETAEKAFKQYANDNGVDG-VWTYD-----------D
+
+Chain 1:   79 SSGS
+              1111
+Chain 2:   53 ATKT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 2ptl_.pdb 78
+Twists 1 ini-len 40 ini-rmsd 5.78 opt-equ 35 opt-rmsd 3.45 chain-rmsd 5.18 Score 56.17 align-len 68 gaps 33 (48.53%)
+P-value 5.75e-01 Afp-num 2836 Identity 4.41% Similarity 17.65%
+Block  0 afp  3 score 47.76 rmsd  2.29 gap 23 (0.49%)
+Block  1 afp  2 score 20.89 rmsd  2.87 gap 34 (0.68%)
+
+Chain 1:   42 TQAEGAFVASLIKESGTDDFNVWIGLHDPKKNRRWHWSSGSLVSYKSWGIGAPSSVNPGYCVSLTSST
+              1111111111111111                                222222 2222222222222
+Chain 2:   40 FEKATSEAYAYADTLKKDNG----------------------------EYTVDV-ADKGYTLNIKFAG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 2spcA.pdb 107
+Twists 1 ini-len 32 ini-rmsd 5.13 opt-equ 40 opt-rmsd 2.46 chain-rmsd 12.35 Score 61.69 align-len 56 gaps 16 (28.57%)
+P-value 3.78e-01 Afp-num 2404 Identity 7.14% Similarity 14.29%
+Block  0 afp  2 score 42.51 rmsd  1.47 gap 0 (0.00%)
+Block  1 afp  2 score 47.67 rmsd  0.38 gap 0 (0.00%)
+
+Chain 1:    2 PEGTNAYRSYCYYFNEDRETWVDADLYCQNMNSGNLVSVLTQAEGAFVASLIKESG
+              111         1 11111111111111111111      2222222222222222
+Chain 2:   22 REAFLNAD----DDANAGGNVEALIKKHEDFDKAINGHEQKIAALQTVADQLIAQN
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1aj3_.pdb 98
+Twists 1 ini-len 32 ini-rmsd 1.32 opt-equ 42 opt-rmsd 2.59 chain-rmsd 8.94 Score 58.84 align-len 90 gaps 48 (53.33%)
+P-value 3.92e-01 Afp-num 2406 Identity 5.56% Similarity 12.22%
+Block  0 afp  2 score 34.88 rmsd  1.79 gap 0 (0.00%)
+Block  1 afp  2 score 47.62 rmsd  0.51 gap 0 (0.00%)
+
+Chain 1:    1 CPEGTNAYRSYCYYFNEDRETWVDADLYCQNMNSGNLVSVL-----------------------------
+              1 1111       111111111111111111111                                    
+Chain 2:   14 IKEKKLL------VSSEDYGRDLTGVQNLRKKHKRLEAELAAHEPAIQGVLDTGKKLSDDNTIGKEEIQQ
+
+Chain 1:   42 ----TQAEGAFVASLIKESG
+                  2222222222222222
+Chain 2:   78 RLAQFVDHWKELKQLAAARG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1a21A.pdb 194
+Twists 2 ini-len 48 ini-rmsd 4.31 opt-equ 56 opt-rmsd 3.44 chain-rmsd 9.92 Score 39.87 align-len 121 gaps 65 (53.72%)
+P-value 9.30e-01 Afp-num 7602 Identity 4.13% Similarity 13.22%
+Block  0 afp  2 score 35.45 rmsd  2.24 gap 0 (0.00%)
+Block  1 afp  2 score 24.83 rmsd  2.87 gap 35 (0.69%)
+Block  2 afp  2 score 29.79 rmsd  3.74 gap 0 (0.00%)
+
+Chain 1:    4 GTNAYRSYCYYFNEDRETWVDADLYCQNMNSGNLVSVLTQAEGAFVASLIKESGTDDFNVWIGLHDPKKN
+              1111111111111111                                 222222222222222      
+Chain 2:  113 SFEQVGTKLNVTVQDARTLVTFL--------------------------SLRAVFGKDLNYTLY------
+
+Chain 1:   74 RRWHWSSGSLVSYKSWGIGAPSSVNPGYCVSLTSSTGFQKWKDVPCEDKFS
+                2222                     22222222   3333333333333
+Chain 2:  155 --YWRK---------------------KTATTNTN---EFLIDVDKGENYC
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 1hwgC.pdb 191
+Twists 2 ini-len 48 ini-rmsd 3.92 opt-equ 42 opt-rmsd 3.21 chain-rmsd 13.02 Score 40.46 align-len 111 gaps 69 (62.16%)
+P-value 9.48e-01 Afp-num 7338 Identity 4.50% Similarity 12.61%
+Block  0 afp  2 score 31.25 rmsd  4.08 gap 1 (0.06%)
+Block  1 afp  2 score 27.20 rmsd  2.10 gap 24 (0.60%)
+Block  2 afp  2 score 29.89 rmsd  2.24 gap 2 (0.11%)
+
+Chain 1:    2 PEGTNAYRSYCYYFNEDRETWVDADLYCQNMNSGNLVSVLTQAE---------GAFVASLIKESGTDDFN
+              11111111111111111                                    22222222         
+Chain 2:  107 YCIKLTSNGGTVDEKCFSVDEIVQPDPPIALNWTLLNVSLTGIHADIQVRWEAPRNADIQKGWMVLEYEL
+
+Chain 1:   63 VWIGLHDPKKNRRWHWSSGSLVSYKSWGIGAPSSVNPGYCV
+                                    33333333  333333333
+Chain 2:  177 QYKEVNETKWKMMDPILT----TSVPVYSL--KVDKEYEVR
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1lit_.pdb 131 with 2clrA.pdb 275
+Twists 2 ini-len 64 ini-rmsd 3.52 opt-equ 68 opt-rmsd 3.20 chain-rmsd 14.01 Score 62.33 align-len 133 gaps 65 (48.87%)
+P-value 7.74e-01 Afp-num 9913 Identity 6.77% Similarity 15.79%
+Block  0 afp  4 score 58.90 rmsd  3.96 gap 23 (0.42%)
+Block  1 afp  2 score 22.22 rmsd  2.89 gap 0 (0.00%)
+Block  2 afp  2 score 31.48 rmsd  3.15 gap 2 (0.11%)
+
+Chain 1:    4 GTNAYRSYCYYFNEDRETWVDADLYCQNMNSGNLVSVLTQAEGAFVASLIKESGTDDFNV----------
+              1111   1111111111            111  11111111111111111111                
+Chain 2:   25 VGYVDDTQFVRFDSDAASQRMEP------RAPWIEQEGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQS
+
+Chain 1:   64 ---------WIGLHDPKKNRRWHWSSGSLVSYKSWGIGAPSSVNPGYCVSLTSSTGFQKWKDV
+                       22222222222222222                     333333  33333333
+Chain 2:   89 EAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKD-------------YIALKE--DLRSWTAA
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1ryt_.pdb 190
+Twists 3 ini-len 80 ini-rmsd 2.64 opt-equ 88 opt-rmsd 2.51 chain-rmsd 14.17 Score 122.13 align-len 181 gaps 93 (51.38%)
+P-value 8.57e-02 Afp-num 8231 Identity 3.31% Similarity 8.84%
+Block  0 afp  4 score 95.80 rmsd  1.57 gap 0 (0.00%)
+Block  1 afp  3 score 50.97 rmsd  3.59 gap 2 (0.08%)
+Block  2 afp  2 score 31.36 rmsd  3.04 gap 0 (0.00%)
+Block  3 afp  1 score 20.20 rmsd  1.59 gap 0 (0.00%)
+
+Chain 1:    1 AIEVKLANMEAEINTLKSKLELTNKLHAFSMGK-----------------KSGKKFF-----------VT
+              111111111111111111111111111111111                 22222             22
+Chain 2:    6 SRTEKNILTAFAGESQARNRYNYFGGQAKKDGFVQISDIFAETADQEREHAKRLFKFLEGGDLEIVAAFP
+
+Chain 1:   43 NHERMPFSKVKALCSELRGTVAIPR-----------------------------NAEENKAIQEVAKTSA
+              2222222222222222222                                   3333333333333   
+Chain 2:   76 AGIIADTHANLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRFLDFARNIKEGR
+
+Chain 1:   84 FLGITDEVTEGQFMYVTGGRLTYSNWKKDEPNDHGSGEDCV
+                         444444444444444              4
+Chain 2:  146 VFLREQAT---KWRCRNCGYVHEGTGAPELCPACAHPKAHF
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1bcfA.pdb 158
+Twists 2 ini-len 64 ini-rmsd 1.09 opt-equ 69 opt-rmsd 1.48 chain-rmsd 17.33 Score 130.61 align-len 90 gaps 21 (23.33%)
+P-value 7.37e-03 Afp-num 6424 Identity 8.89% Similarity 16.67%
+Block  0 afp  4 score 95.58 rmsd  1.29 gap 0 (0.00%)
+Block  1 afp  2 score 47.39 rmsd  0.79 gap 0 (0.00%)
+Block  2 afp  2 score 46.63 rmsd  0.92 gap 0 (0.00%)
+
+Chain 1:    1 AIEVKLANMEAEINTLKSKLELTNKLHAFSMGKKSGKKFFVTNHERM--PFSKVKALCSELRGTV-----
+              111111111111111111111111111111111111             2222222222222222     
+Chain 2:    5 TKVINYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDL
+
+Chain 1:   64 ---AIPRNAEENKAIQEVAK
+                 33333333333333333
+Chain 2:   75 GKLNIGEDVEEMLRSDLALE
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1rcd_.pdb 171
+Twists 2 ini-len 72 ini-rmsd 4.98 opt-equ 82 opt-rmsd 2.85 chain-rmsd 18.18 Score 126.12 align-len 133 gaps 51 (38.35%)
+P-value 4.87e-02 Afp-num 7049 Identity 3.76% Similarity 18.80%
+Block  0 afp  4 score 94.64 rmsd  0.65 gap 0 (0.00%)
+Block  1 afp  3 score 47.85 rmsd  2.92 gap 1 (0.04%)
+Block  2 afp  2 score 40.13 rmsd  2.11 gap 0 (0.00%)
+
+Chain 1:    3 EVKLANMEAEINTLKSKLELTNKLHAFSMGKK--SGKKFFVTNHERMPFSKVKALCSELRGTVAIP----
+              11111111111111111111111111111111  22222222222222222222222222          
+Chain 2:   43 LSNFAKFFRERSEEEKEHAEKLIEYQNQRGGRVFLQSVEKPERDDWANGLEALQTALKLQKSVNQALLDL
+
+Chain 1:   67 -----------------------------RNAEENKAIQEVAKTSAFLGITDEVTEGQFMYVT
+                                           3333333333333333333333          33
+Chain 2:  113 HAVAADKSDPHMTDFLESPYLSESVETIKKLGDHITSLKKLWSSHPGMAEYLFNKHT----LG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1qorA.pdb 326
+Twists 2 ini-len 72 ini-rmsd 5.85 opt-equ 87 opt-rmsd 3.72 chain-rmsd 12.78 Score 122.29 align-len 132 gaps 45 (34.09%)
+P-value 2.86e-01 Afp-num 14452 Identity 6.06% Similarity 14.39%
+Block  0 afp  3 score 62.98 rmsd  2.43 gap 0 (0.00%)
+Block  1 afp  3 score 47.55 rmsd  3.72 gap 4 (0.14%)
+Block  2 afp  3 score 53.10 rmsd  3.12 gap 0 (0.00%)
+
+Chain 1:   10 EAEINTLKSKLELTNKLHAFSMGKKSGK-KFFVTNHERMPFSKVKALCSELRGTV-AIPRNAEENKAIQE
+              1111111111111111111111111    22222 2 222222222222222222 33333333333333
+Chain 2:  113 SFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAAGGVGLIACQWAKALGAKLIGTVGTAQKAQSALK
+
+Chain 1:   78 VAKTSAFLGITDEVTEGQFMYVTGGRLTYSNWKKDEPNDHGSGEDCVTIVDNGLWNDISCQA
+              333333                    333333   33333  33             33333
+Chain 2:  183 AGAWQVIN------------------YREEDLV--ERLKEITGG-------------KKVRV
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 2ohxA.pdb 374
+Twists 4 ini-len 88 ini-rmsd 4.60 opt-equ 92 opt-rmsd 2.75 chain-rmsd 14.76 Score 89.28 align-len 162 gaps 70 (43.21%)
+P-value 6.97e-01 Afp-num 16013 Identity 4.32% Similarity 14.81%
+Block  0 afp  2 score 42.74 rmsd  1.87 gap 3 (0.16%)
+Block  1 afp  2 score 47.78 rmsd  0.32 gap 0 (0.00%)
+Block  2 afp  3 score 38.39 rmsd  4.45 gap 7 (0.23%)
+Block  3 afp  2 score 20.53 rmsd  4.25 gap 23 (0.59%)
+Block  4 afp  2 score 32.03 rmsd  3.24 gap 3 (0.16%)
+
+Chain 1:    1 AIEVKLANM-EAEINTLKS------------------KLELTNKLHAFSMGKKSGKKFFVTNHERMPFSK
+              111111111 111111111                  222222222222222222        3333333
+Chain 2:  165 PLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGAARIIG------VDINKDK
+
+Chain 1:   52 VKALCSELRGTVAIPRNAEENKAIQE--VAKTSAFLGITDEVTEGQFMYVTGGRLTYSNWKKDEPNDHGS
+              3333333333333        33333  44444444444            444444444          
+Chain 2:  229 FAKAKEVGATECVNPQDYKKPIQEVLTEMSNGGVDFSFE------------VIGRLDTMVTALSCCQEAY
+
+Chain 1:  120 GEDCVTIVDN-GLWNDISCQAS
+                         55555555555
+Chain 2:  287 GVSVIVGVPPDSQNLSMNPMLL
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1igd_.pdb 61
+Twists 0 ini-len 16 ini-rmsd 0.32 opt-equ 17 opt-rmsd 0.37 chain-rmsd 0.32 Score 47.97 align-len 17 gaps 0 (0.00%)
+P-value 5.41e-02 Afp-num 2128 Identity 11.76% Similarity 17.65%
+Block  0 afp  2 score 47.97 rmsd  0.32 gap 0 (0.00%)
+
+Chain 1:    1 AIEVKLANMEAEINTLK
+              11111111111111111
+Chain 2:   27 DAETAEKAFKQYANDNG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 2ptl_.pdb 78
+Twists 1 ini-len 24 ini-rmsd 2.65 opt-equ 28 opt-rmsd 2.13 chain-rmsd 4.68 Score 50.84 align-len 30 gaps 2 (6.67%)
+P-value 6.02e-01 Afp-num 2998 Identity 10.00% Similarity 26.67%
+Block  0 afp  2 score 46.76 rmsd  0.78 gap 0 (0.00%)
+Block  1 afp  1 score 20.62 rmsd  1.50 gap 0 (0.00%)
+
+Chain 1:   16 LKSKLELTNKLHAFSMGKKSGKKFFVTNHE
+              1111111111111111  222222222222
+Chain 2:   39 TFEKATSEAYAYADTL--KKDNGEYTVDVA
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 2spcA.pdb 107
+Twists 1 ini-len 48 ini-rmsd 5.96 opt-equ 48 opt-rmsd 2.65 chain-rmsd 8.33 Score 108.63 align-len 80 gaps 32 (40.00%)
+P-value 5.05e-02 Afp-num 4357 Identity 6.25% Similarity 13.75%
+Block  0 afp  4 score 93.83 rmsd  1.08 gap 0 (0.00%)
+Block  1 afp  2 score 44.80 rmsd  1.07 gap 0 (0.00%)
+
+Chain 1:    1 AIEVKLANMEAEINTLKSKLELTNKLHAFSMGKKSGKKFFVTNHERMPFSKVKALCSELRGTVAIPRNAE
+              11111111111111111111111111111111                                222222
+Chain 2:    2 NLDLQLYMRDCELAESWMSAREAFLNADDDAN--------------------------------AGGNVE
+
+Chain 1:   71 ENKAIQEVAK
+              2222222222
+Chain 2:   40 ALIKKHEDFD
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1aj3_.pdb 98
+Twists 1 ini-len 40 ini-rmsd 2.31 opt-equ 47 opt-rmsd 3.15 chain-rmsd 5.07 Score 99.21 align-len 80 gaps 33 (41.25%)
+P-value 1.04e-01 Afp-num 4205 Identity 3.75% Similarity 16.25%
+Block  0 afp  4 score 94.23 rmsd  2.53 gap 0 (0.00%)
+Block  1 afp  1 score 22.54 rmsd  0.99 gap 0 (0.00%)
+
+Chain 1:    1 AIEVKLANMEAEINTLKSKLELTNKLHAFSMGKKSGKKFFVTNHERMPFSKVKALCSELRGTVAIPRNAE
+              111111111111111111111111111111111      111                           2
+Chain 2:   28 RDLTGVQNLRKKHKRLEAELAAHEPAIQGVLDT------GKKLSDD-----------------------N
+
+Chain 1:   71 ENKAIQEVAK
+              2222222222
+Chain 2:   69 TIGKEEIQQR
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1a21A.pdb 194
+Twists 0 ini-len 16 ini-rmsd 3.00 opt-equ 19 opt-rmsd 3.54 chain-rmsd 3.00 Score 35.38 align-len 20 gaps 1 (5.00%)
+P-value 9.60e-01 Afp-num 7525 Identity 10.00% Similarity 15.00%
+Block  0 afp  2 score 35.38 rmsd  3.00 gap 1 (0.06%)
+
+Chain 1:  118 GSGEDCVTIVDNGLWNDISC
+              1111111111 111111111
+Chain 2:  108 QPTIQSFEQVGTKLNVTVQD
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 1hwgC.pdb 191
+Twists 0 ini-len 24 ini-rmsd 2.35 opt-equ 31 opt-rmsd 4.61 chain-rmsd 7.18 Score 35.65 align-len 59 gaps 28 (47.46%)
+P-value 9.40e-01 Afp-num 7291 Identity 5.08% Similarity 22.03%
+Block  0 afp  3 score 33.49 rmsd  2.35 gap 71 (0.75%)
+
+Chain 1:   66 PRNAEENKAIQEVAKTSAFLGITDEVTEGQFMYVTGGRLTYSNW----KKDEPNDHGSG
+              1111111111         111111 1111                  11111111111
+Chain 2:  188 MMDPILTTSV---------PVYSLKVDKEYEVRVRSKQRNSGNYGEFSEVLYVTLPQMS
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rtm1.pdb 149 with 2clrA.pdb 275
+Twists 3 ini-len 88 ini-rmsd 2.49 opt-equ 96 opt-rmsd 2.91 chain-rmsd 19.32 Score 123.38 align-len 191 gaps 95 (49.74%)
+P-value 1.90e-01 Afp-num 11061 Identity 3.66% Similarity 10.99%
+Block  0 afp  4 score 93.54 rmsd  1.41 gap 0 (0.00%)
+Block  1 afp  2 score 32.39 rmsd  1.72 gap 0 (0.00%)
+Block  2 afp  3 score 41.01 rmsd  3.92 gap 29 (0.55%)
+Block  3 afp  2 score 33.62 rmsd  2.05 gap 0 (0.00%)
+
+Chain 1:    1 AIEVKLANMEAEINTLKSKLELTNKLHAFSMGKKSGKKFF------------------------------
+              111111111111111111111111111111111111111                               
+Chain 2:   55 EGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYI
+
+Chain 1:   41 -----VTNHERMPFSKVKALCSELRGTVAIP-------RNAEENKAIQEVAKTSAFLGITDEVTEGQFMY
+                   222222222222222222222            33333333333333333               
+Chain 2:  125 ALKEDLRSWTAADMAAQTTKHKWEAAHVAEQLRAYLEGTCVEWLRRYLENGKETLQRTDAPKTHMTHHAV
+
+Chain 1:   99 VTGGRLTYSNWKKDEPN-------------DHGSGEDCVTIVDNGLWNDIS
+                                            4  444444444444444444
+Chain 2:  195 SDHEATLRCWALSFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWA
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 1bcfA.pdb 158
+Twists 0 ini-len 120 ini-rmsd 1.49 opt-equ 155 opt-rmsd 3.01 chain-rmsd 1.49 Score 349.41 align-len 187 gaps 32 (17.11%)
+P-value 2.26e-13 Afp-num 14074 Identity 12.83% Similarity 22.99%
+Block  0 afp 15 score 349.41 rmsd  1.49 gap 19 (0.14%)
+
+Chain 1:    2 SLKGSRTEKNILTAFAGESQARNRYNYFGGQAKKDGFVQISDIFAETADQEREHAKRLFKFLE--GGDLE
+              111111111111111111111111111111111111111111111111111111111111111  11111
+Chain 2:    1 MKGDTKVINYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPN
+
+Chain 1:   70 IVAAFPAGIIADTHANLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRFLDFAR
+              1111111111111111111111111111 11111111111111111111111111111111111111111
+Chain 2:   71 LQDLGKLNIGEDVEEMLRSDLALELDGA-KNLREAIGYADSVHDYVSRDMMIEILRDEEGHIDWLETELD
+
+Chain 1:  140 NIKEGRVFLREQATKWRCRNCGYVHEGTGAPELCPACAHPKAHFELL
+              1111111111                             11111111
+Chain 2:  140 LIQKMGLQNYL----------------------------QAQIREEG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 1rcd_.pdb 171
+Twists 0 ini-len 128 ini-rmsd 2.93 opt-equ 152 opt-rmsd 3.14 chain-rmsd 2.93 Score 333.34 align-len 201 gaps 49 (24.38%)
+P-value 5.09e-12 Afp-num 14878 Identity 9.95% Similarity 23.38%
+Block  0 afp 16 score 333.34 rmsd  2.93 gap 20 (0.14%)
+
+Chain 1:    1 KSLKGSRTEKNILTAFAGESQARNRYNYFGGQAKK--DGFVQISDIFAETADQEREHAKRLFKFLE---G
+              11111111111111111111111111111111111  11111111111111111111111111111   1
+Chain 2:    4 RQNFHQDCEAGLNRTVNLKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGG
+
+Chain 1:   66 GDLEIVAAFPAGIIADT-HANLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFAS-IAVAEEFHEKR
+              11111  1111111111 111111111111111 111111111111111111111111 11111111111
+Chain 2:   74 RVFLQSVEKPERDDWANGLEALQTALKLQKSVN-QALLDLHAVAADKSDPHMTDFLESPYLSESVETIKK
+
+Chain 1:  134 FLDFARNIKEG-------RVFLREQATKWRCRNCGYVHEGTGAPELCPACAHPKAHFELLG
+              11111111111       11111                                111111
+Chain 2:  143 LGDHITSLKKLWSSHPGMAEYLF--------------------------------NKHTLG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 1qorA.pdb 326
+Twists 4 ini-len 96 ini-rmsd 2.06 opt-equ 107 opt-rmsd 2.75 chain-rmsd 15.91 Score 120.93 align-len 205 gaps 98 (47.80%)
+P-value 3.58e-01 Afp-num 18970 Identity 4.88% Similarity 11.22%
+Block  0 afp  3 score 67.41 rmsd  2.27 gap 0 (0.00%)
+Block  1 afp  2 score 38.27 rmsd  1.83 gap 0 (0.00%)
+Block  2 afp  2 score 26.54 rmsd  2.62 gap 24 (0.60%)
+Block  3 afp  3 score 59.25 rmsd  1.77 gap 0 (0.00%)
+Block  4 afp  2 score 41.80 rmsd  1.67 gap 0 (0.00%)
+
+Chain 1:   15 AFAGESQARNRYNYFGGQA-KKDGFVQ----------ISDIFAETADQEREHA-----------------
+              1111111111111111111 11111            222222222222222                  
+Chain 2:  113 SFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAAGGVGLIACQWAKALGAKLIGTVGTAQKAQSALK
+
+Chain 1:   57 ---------------KRLFK--FLEGG-------------------DLEIVAAFPA--------------
+                             33333  3333                    3333333333              
+Chain 2:  183 AGAWQVINYREEDLVERLKEITGGKKVRVVYDSVGRDTWERSLDCLQRRGLMVSFGNSSGAVTGVNLGIL
+
+Chain 1:   77 --------------GIIADTHANLIASAAGEHHEYTEMYPSF--ARIAREEGYEEIARVFASIAV
+                            4444444444444444444444444444  555555555555555555555
+Chain 2:  253 NQKGSLYVTRPSLQGYITTREELTEASNELFSLIASGVIKVDVAEQQKYPLKDAQRAHEILESRA
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 2ohxA.pdb 374
+Twists 4 ini-len 88 ini-rmsd 3.29 opt-equ 103 opt-rmsd 3.38 chain-rmsd 15.06 Score 101.71 align-len 206 gaps 103 (50.00%)
+P-value 6.85e-01 Afp-num 19296 Identity 4.37% Similarity 15.05%
+Block  0 afp  2 score 41.18 rmsd  1.82 gap 0 (0.00%)
+Block  1 afp  2 score 47.86 rmsd  0.45 gap 0 (0.00%)
+Block  2 afp  3 score 40.01 rmsd  5.91 gap 24 (0.50%)
+Block  3 afp  2 score 46.31 rmsd  0.85 gap 1 (0.06%)
+Block  4 afp  2 score 43.26 rmsd  1.67 gap 0 (0.00%)
+
+Chain 1:    1 KS-LKGSRTEKNILTAFAGES----------QARNRYNYFGGQAKKDGFVQISDIFAETADQE-----RE
+              11 11111111111111111           2222222222222222222222               3 
+Chain 2:  168 KVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGAARIIGVDINKDKFAKAKEVGA
+
+Chain 1:   55 HAKRLFKFLEGGDLEIVAAFPA------GIIADTHANLIASAAGEHHE----------------------
+                              33333       3333333333333333333                       
+Chain 2:  238 TECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDTMVTALSCCQEAYGVSVIVGVPPDSQNLSMNPML
+
+Chain 1:   97 ---------------YTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRFLDFARNIKEGRVF
+                             444444444444444444              5555555555555555555
+Chain 2:  308 LLSGRTWKGAIFGGFKSKDSVPKLVADFMAKKFALDPLITHV-----LPFEKINEGFDLLRSGESI
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 1igd_.pdb 61
+Twists 1 ini-len 32 ini-rmsd 8.52 opt-equ 33 opt-rmsd 0.92 chain-rmsd 7.53 Score 61.80 align-len 39 gaps 6 (15.38%)
+P-value 1.26e-01 Afp-num 2429 Identity 2.56% Similarity 5.13%
+Block  0 afp  2 score 47.75 rmsd  0.45 gap 0 (0.00%)
+Block  1 afp  2 score 41.38 rmsd  2.04 gap 0 (0.00%)
+
+Chain 1:  128 EFHEKRFLDFARNIKEGRVFLREQATKWRCRNCGYVHEG
+              111111111111111111      222222222222222
+Chain 2:   27 DAETAEKAFKQYANDNGVD-----GVWTYDDATKTFTVT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 2ptl_.pdb 78
+Twists 0 ini-len 24 ini-rmsd 2.08 opt-equ 26 opt-rmsd 3.12 chain-rmsd 2.08 Score 54.26 align-len 27 gaps 1 (3.70%)
+P-value 5.58e-01 Afp-num 3377 Identity 22.22% Similarity 22.22%
+Block  0 afp  3 score 54.26 rmsd  2.08 gap 39 (0.62%)
+
+Chain 1:   16 FAGESQARNRYNYFGGQAKKDGFVQIS
+              11111111111111111 111111111
+Chain 2:   38 GTFEKATSEAYAYADTL-KKDNGEYTV
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 2spcA.pdb 107
+Twists 2 ini-len 96 ini-rmsd 4.56 opt-equ 99 opt-rmsd 2.54 chain-rmsd 24.22 Score 222.95 align-len 140 gaps 41 (29.29%)
+P-value 1.05e-04 Afp-num 10345 Identity 5.00% Similarity 12.86%
+Block  0 afp  4 score 94.99 rmsd  1.45 gap 0 (0.00%)
+Block  1 afp  4 score 87.62 rmsd  2.00 gap 4 (0.11%)
+Block  2 afp  4 score 95.33 rmsd  1.30 gap 0 (0.00%)
+
+Chain 1:    5 GSRTEKNILTAFAGESQARNRYNYFGGQAKKDGFVQISDIFAETADQEREHAKRLFKFLEGGDLEIVAAF
+              11111111111111111111111111111111                                      
+Chain 2:    1 QNLDLQLYMRDCELAESWMSAREAFLNADDDA--------------------------------------
+
+Chain 1:   75 PAGIIADTHANLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRFLDFARNIKEG
+                222222222222222222222 2222222222222233333333333333333333333333333333
+Chain 2:   33 --NAGGNVEALIKKHEDFDKAIN-GHEQKIAALQTVADQLIAQNHYASNLVDEKRKQVLERWRHLKEGLI
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 1aj3_.pdb 98
+Twists 1 ini-len 88 ini-rmsd 4.57 opt-equ 98 opt-rmsd 3.26 chain-rmsd 6.13 Score 205.91 align-len 138 gaps 40 (28.99%)
+P-value 8.95e-05 Afp-num 9877 Identity 5.07% Similarity 16.67%
+Block  0 afp  5 score 99.78 rmsd  3.32 gap 2 (0.05%)
+Block  1 afp  6 score 129.63 rmsd  3.03 gap 3 (0.06%)
+
+Chain 1:    6 SRTEKNILTAFAGESQARNRYNYFGGQAKKDGFVQISDIFAETADQEREHAKRLFKFLEGGDLEIVAAFP
+              1111111111111111111111111 111111111111111111                          
+Chain 2:    1 HQFFRDMDDEESWIKEKKLLVSSED-YGRDLTGVQNLRKKHKRL--------------------------
+
+Chain 1:   76 AGIIADTHANLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRFLDFARNIKE
+                         22222222222 222222222222222222222 22222222222222222222222
+Chain 2:   44 -----------EAELAAHEPAI-QGVLDTGKKLSDDNTIGKEEI-QQRLAQFVDHWKELKQLAAARGQ
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 1a21A.pdb 194
+Twists 1 ini-len 24 ini-rmsd 2.88 opt-equ 41 opt-rmsd 4.00 chain-rmsd 6.08 Score 37.69 align-len 128 gaps 87 (67.97%)
+P-value 9.68e-01 Afp-num 6448 Identity 3.91% Similarity 10.94%
+Block  0 afp  1 score 22.38 rmsd  1.04 gap 0 (0.00%)
+Block  1 afp  2 score 33.83 rmsd  3.44 gap 0 (0.00%)
+
+Chain 1:   12 ILTAFAGESQARNRYNYFGGQAKKDGFVQISDIFAETADQEREHAKRLFKFLE-----------------
+              1 111                                   1 11111111111                 
+Chain 2:   14 STNFKTILEWEPKSIDHVYTVQISTRLENWKSKCFLTAETECDLTDEVVKDVGQTYMARVLSYPARNTTG
+
+Chain 1:   65 ---------------GGDLEIVAAFPAGIIADTHANLIASAAGEHHEYTEMYPSFARI
+                             22222222222222222      2           22 22222
+Chain 2:   86 FPEEPPFRNSPEFTPYLDTNLGQPTIQSFEQVGTKLNVTVQD--------ARTLVTFL
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 1hwgC.pdb 191
+Twists 2 ini-len 40 ini-rmsd 9.22 opt-equ 60 opt-rmsd 3.59 chain-rmsd 15.78 Score 42.23 align-len 130 gaps 70 (53.85%)
+P-value 9.44e-01 Afp-num 6391 Identity 6.15% Similarity 14.62%
+Block  0 afp  1 score 17.65 rmsd  2.06 gap 0 (0.00%)
+Block  1 afp  2 score 28.17 rmsd  4.85 gap 23 (0.59%)
+Block  2 afp  2 score 36.52 rmsd  1.92 gap 0 (0.00%)
+
+Chain 1:   65 GGDLEIVAAFPAGIIADTHANLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRF
+              1111111122222222                      222222222 222                   
+Chain 2:  130 QPDPPIALNWTLLNVSLTGIHADIQVRW----------EAPRNADIQKGWMVLE----------------
+
+Chain 1:  135 LDFARNIKEGRVFLREQATKWRCRNCGYVHEG-------TGAPELCPACAHPKAHFELLG
+                              3333333333333333       333333     3333333333
+Chain 2:  174 ----------------YELQYKEVNETKWKMMDPILTTSVPVYSL-----KVDKEYEVRV
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1ryt_.pdb 190 with 2clrA.pdb 275
+Twists 3 ini-len 96 ini-rmsd 5.78 opt-equ 111 opt-rmsd 3.63 chain-rmsd 18.33 Score 167.11 align-len 176 gaps 65 (36.93%)
+P-value 9.12e-02 Afp-num 13850 Identity 4.55% Similarity 11.93%
+Block  0 afp  4 score 92.49 rmsd  1.80 gap 0 (0.00%)
+Block  1 afp  2 score 46.71 rmsd  0.93 gap 0 (0.00%)
+Block  2 afp  4 score 76.44 rmsd  3.30 gap 3 (0.09%)
+Block  3 afp  2 score 34.37 rmsd  1.47 gap 7 (0.30%)
+
+Chain 1:    6 SRTEKNILTAFAGESQARNRYNYFGGQAKKDGFVQISDIFAETADQEREHAKRLFKFLEGGDLEIVA---
+              1111111111111111111111111111111111111 11                              
+Chain 2:   55 EGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYI
+
+Chain 1:   73 ----AFPAGIIADTHANLIASAAGEHHEYTEMYPSFARIAREEGYEEIARVFASIAVAEEFHEKRFLDFA
+                  22222222222222222222222                     3333333333333333333333
+Chain 2:  125 ALKEDLRSWTAADMAAQTTKHKWEAAH---------------------VAEQLRAYLEGTCVEWLRRYLE
+
+Chain 1:  139 RNIKEGRVFLREQATKWRCRN-------CGYVHEGT
+              33333333333  44444444       44444444
+Chain 2:  174 NGKETLQRTDA--PKTHMTHHAVSDHEATLRCWALS
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 1rcd_.pdb 171
+Twists 0 ini-len 144 ini-rmsd 1.69 opt-equ 158 opt-rmsd 2.07 chain-rmsd 1.69 Score 384.64 align-len 168 gaps 10 (5.95%)
+P-value 0.00e+00 Afp-num 15199 Identity 16.67% Similarity 30.95%
+Block  0 afp 18 score 384.64 rmsd  1.69 gap 17 (0.11%)
+
+Chain 1:    1 MK--GDTKVINYLNKLLGNELVAINQYFLHARMFKN--WGLKRLNDVEYHESIDEMKHADRYIERILFLE
+              11  11111111111111111111111111111111  11111111111111111111111111111111
+Chain 2:    3 VRQNFHQDCEAGLNRTVNLKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRG
+
+Chain 1:   67 GLPNLQDLGKLNI--GEDVEEMLRSDLALELDGAKNLREAIGYADSVHDYVSRDMMIE-ILRDEEGHIDW
+              1111111111111  1111111111111111111111111111111111111111111 11111111111
+Chain 2:   73 GRVFLQSVEKPERDDWANGLEALQTALKLQKSVNQALLDLHAVAADKSDPHMTDFLESPYLSESVETIKK
+
+Chain 1:  134 LETELDLIQKMG---LQNYLQAQIREEG
+              111111111111   1111111111111
+Chain 2:  143 LGDHITSLKKLWSSHPGMAEYLFNKHTL
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 1qorA.pdb 326
+Twists 4 ini-len 104 ini-rmsd 2.81 opt-equ 112 opt-rmsd 2.75 chain-rmsd 15.28 Score 127.64 align-len 214 gaps 102 (47.66%)
+P-value 2.50e-01 Afp-num 16182 Identity 3.27% Similarity 12.62%
+Block  0 afp  3 score 67.45 rmsd  1.94 gap 0 (0.00%)
+Block  1 afp  3 score 58.43 rmsd  3.16 gap 0 (0.00%)
+Block  2 afp  2 score 33.00 rmsd  1.82 gap 2 (0.11%)
+Block  3 afp  3 score 48.93 rmsd  3.96 gap 6 (0.20%)
+Block  4 afp  2 score 39.83 rmsd  2.00 gap 0 (0.00%)
+
+Chain 1:   11 LNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDLG-----
+              1  111111111111111111111111111           222222222222222222222        
+Chain 2:  110 AAISFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAA-GGVGLIACQWAKALGAKLIGTVGTAQKAQ
+
+Chain 1:   76 -------------------------------KLNIGED-VEEMLRSDLALELDGAKNLREAI--------
+                                             3333333 33333333333                    
+Chain 2:  179 SALKAGAWQVINYREEDLVERLKEITGGKKVRVVYDSVGRDTWERSLDCLQRRGLMVSFGNSSGAVTGVN
+
+Chain 1:  106 ---------------GYADSVHDYVSRDMMIEILRDEEG--------------HIDWLETELDLIQKMGL
+                             444444444444444444444444              55555555555555555
+Chain 2:  249 LGILNQKGSLYVTRPSLQGYITTREELTEASNELFSLIASGVIKVDVAEQQKYPLKDAQRAHEILESRAT
+
+Chain 1:  147 QNYL
+              5555
+Chain 2:  319 QGSS
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 2ohxA.pdb 374
+Twists 3 ini-len 96 ini-rmsd 2.85 opt-equ 102 opt-rmsd 3.81 chain-rmsd 16.31 Score 111.05 align-len 205 gaps 103 (50.24%)
+P-value 5.27e-01 Afp-num 15413 Identity 3.41% Similarity 11.22%
+Block  0 afp  3 score 50.81 rmsd  2.83 gap 0 (0.00%)
+Block  1 afp  5 score 64.78 rmsd  3.56 gap 46 (0.53%)
+Block  2 afp  2 score 47.05 rmsd  0.81 gap 0 (0.00%)
+Block  3 afp  2 score 38.42 rmsd  2.11 gap 0 (0.00%)
+
+Chain 1:   14 LLGNELVAINQYFLHARMF-KNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDLGKLNIGED
+              1111111111111111111 1111111         22222222222222222222222   222     
+Chain 2:  165 PLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVF--GLGGVGLSVIMGCKAAGAARIIGVDINKDKFAKA
+
+Chain 1:   83 VEEMLRSDLALELDGAKNLREAIGYADSVH----------------------------------------
+                       22222 22222222222                                            
+Chain 2:  233 KEVGATECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDTMVTALSCCQEAYGVSVIVGVPPDSQNLS
+
+Chain 1:  113 --------------------DYVSRDMMIEILRDEEG----------HIDWLETELDLIQKMGLQ
+                                  3333333333333333           444444444444444444
+Chain 2:  303 MNPMLLLSGRTWKGAIFGGFKSKDSVPKLVADFMAKKFALDPLITHVLPFEKINEGFDLLRSGES
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 1igd_.pdb 61
+Twists 0 ini-len 24 ini-rmsd 2.56 opt-equ 28 opt-rmsd 3.33 chain-rmsd 2.56 Score 59.80 align-len 28 gaps 0 (0.00%)
+P-value 3.34e-01 Afp-num 1965 Identity 10.71% Similarity 21.43%
+Block  0 afp  3 score 59.80 rmsd  2.56 gap 1 (0.04%)
+
+Chain 1:   73 DLGKLNIGEDVEEMLRSDLALELDGAKN
+              1111111111111111111111111111
+Chain 2:   18 KGETTTKAVDAETAEKAFKQYANDNGVD
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 2ptl_.pdb 78
+Twists 0 ini-len 24 ini-rmsd 2.04 opt-equ 33 opt-rmsd 3.45 chain-rmsd 2.04 Score 65.59 align-len 52 gaps 19 (36.54%)
+P-value 2.57e-01 Afp-num 2579 Identity 5.77% Similarity 17.31%
+Block  0 afp  3 score 65.59 rmsd  2.04 gap 4 (0.14%)
+
+Chain 1:   70 NLQDLGKLNIGE-DVEEMLRSDLALELDGAKNLREAIGYADSVHDYVSRDMM
+              111111111111 11111111111111111111                  1
+Chain 2:   27 ANGSTQTAEFKGTFEKATSEAYAYADTLKKDNGEYTVDVADKGYTLNIKFAG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 2spcA.pdb 107
+Twists 2 ini-len 96 ini-rmsd 7.27 opt-equ 95 opt-rmsd 3.63 chain-rmsd 25.28 Score 223.57 align-len 109 gaps 14 (12.84%)
+P-value 3.49e-04 Afp-num 10948 Identity 4.59% Similarity 22.02%
+Block  0 afp  4 score 86.33 rmsd  1.62 gap 0 (0.00%)
+Block  1 afp  4 score 94.24 rmsd  0.86 gap 0 (0.00%)
+Block  2 afp  4 score 94.76 rmsd  1.16 gap 0 (0.00%)
+
+Chain 1:   37 LKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDLGKLNIGEDVEEMLRSDLALELDGAKNLREAIG
+              1111111111111111111111111111111            222222222222222222222222222
+Chain 2:    4 DLQLYMRDCELAESWMSAREAFLNADDDANA------------GGNVEALIKKHEDFDKAINGHEQKIAA
+
+Chain 1:  107 YADSVHDYVSRDMMIEILRDEEGHIDWLETELDLIQKMG
+              22222  33333333333333333333333333333333
+Chain 2:   62 LQTVA--DQLIAQNHYASNLVDEKRKQVLERWRHLKEGL
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 1aj3_.pdb 98
+Twists 1 ini-len 88 ini-rmsd 3.68 opt-equ 98 opt-rmsd 2.67 chain-rmsd 5.04 Score 207.45 align-len 138 gaps 40 (28.99%)
+P-value 7.74e-06 Afp-num 10392 Identity 2.90% Similarity 18.12%
+Block  0 afp  4 score 84.14 rmsd  1.84 gap 8 (0.20%)
+Block  1 afp  7 score 148.70 rmsd  2.57 gap 0 (0.00%)
+
+Chain 1:    5 TKVINYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDL
+              1111111111111111111111111 11111111111111                              
+Chain 2:    1 HQFFRDMDDEESWIKEKKLLVSSED-YGRDLTGVQNLRKK------------------------------
+
+Chain 1:   75 GKLNIGEDVEEMLRSDLALELDGAKNLREAIGYADSVHDYVSRDMMIEILRDEEGHIDWLETELDLIQ
+                       22222222222222222222222222222222222222222222222222222222222
+Chain 2:   40 ---------HKRLEAELAAHEPAIQGVLDTGKKLSDDNTIGKEEIQQRLAQFVDHWKELKQLAAARGQ
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 1a21A.pdb 194
+Twists 0 ini-len 24 ini-rmsd 3.23 opt-equ 39 opt-rmsd 3.48 chain-rmsd 3.23 Score 44.40 align-len 139 gaps 100 (71.94%)
+P-value 7.66e-01 Afp-num 4212 Identity 5.76% Similarity 15.83%
+Block  0 afp  3 score 44.40 rmsd  3.23 gap 31 (0.56%)
+
+Chain 1:   17 NELVAINQYFLHARMFKNWGLKRLND-----VEYHESIDEMKHADRYIERILFLEGLPNLQDLGKLNIGE
+              11  11  111  1                 11                   111111111111111111
+Chain 2:   32 YT--VQ--ISTRLENWKSKCFLTAETECDLTDEVVKDVGQTYMARVLSYPARNTTGFPEEPPFRNSPEFT
+
+Chain 1:   82 DVEEMLRSDLALELDGAKNLREAIGYADSVHDYVSRDMMIEILRDEEGHIDWLETELDLIQKMGLQNYL
+              11 1                                                     11    111111
+Chain 2:  100 PYLDTNLGQPTIQSFEQVGTKLNVTVQDAR---------------------------TLVTFLSLRAVF
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 1hwgC.pdb 191
+Twists 0 ini-len 24 ini-rmsd 3.38 opt-equ 34 opt-rmsd 3.83 chain-rmsd 3.38 Score 33.93 align-len 75 gaps 41 (54.67%)
+P-value 9.25e-01 Afp-num 4216 Identity 9.33% Similarity 28.00%
+Block  0 afp  3 score 33.93 rmsd  3.38 gap 4 (0.14%)
+
+Chain 1:    8 INYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDLGKL
+              111 1111  11  1                                111111111   11111111111
+Chain 2:  125 VDEIVQPD--PPIALNWTLLNVSLTGIHADIQVRWE-----------APRNADIQK---GWMVLEYELQY
+
+Chain 1:   78 NIGED
+               1111
+Chain 2:  179 KEVNE
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1bcfA.pdb 158 with 2clrA.pdb 275
+Twists 3 ini-len 88 ini-rmsd 2.77 opt-equ 99 opt-rmsd 2.91 chain-rmsd 18.83 Score 166.29 align-len 146 gaps 47 (32.19%)
+P-value 5.51e-02 Afp-num 11876 Identity 5.48% Similarity 12.33%
+Block  0 afp  4 score 94.63 rmsd  1.73 gap 0 (0.00%)
+Block  1 afp  2 score 29.56 rmsd  3.07 gap 1 (0.06%)
+Block  2 afp  2 score 40.41 rmsd  1.58 gap 0 (0.00%)
+Block  3 afp  3 score 69.70 rmsd  1.25 gap 1 (0.04%)
+
+Chain 1:    5 TKVINYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDL
+              1111111111111111111111111111111111111 11              2222222222222 22
+Chain 2:   55 EGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMY---------GCDVGSDWRFLRG-YH
+
+Chain 1:   75 GKLNIGEDVEEMLRSD------LALELDGAKNLREAIGYADSVHDYVSRDMMIEILRDEE-GHIDWLETE
+              222222                333333333333333              444444444 444444444
+Chain 2:  115 QYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAH--------------VAEQLRAYLEGTCVEWLRR
+
+Chain 1:  138 LDLIQK
+              444444
+Chain 2:  171 YLENGK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 1qorA.pdb 326
+Twists 4 ini-len 96 ini-rmsd 2.35 opt-equ 96 opt-rmsd 2.15 chain-rmsd 16.26 Score 114.98 align-len 217 gaps 121 (55.76%)
+P-value 3.13e-01 Afp-num 17754 Identity 4.15% Similarity 15.21%
+Block  0 afp  3 score 60.41 rmsd  2.65 gap 0 (0.00%)
+Block  1 afp  3 score 60.95 rmsd  2.32 gap 0 (0.00%)
+Block  2 afp  2 score 28.03 rmsd  3.11 gap 0 (0.00%)
+Block  3 afp  2 score 44.74 rmsd  1.27 gap 0 (0.00%)
+Block  4 afp  2 score 34.09 rmsd  1.80 gap 0 (0.00%)
+
+Chain 1:   11 CEAGLNRTVNLKFHSSYVY-LSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGGRVFLQS
+              1111111111111111111 1111                        2222222222222222222222
+Chain 2:  113 SFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAA-----------GGVGLIACQWAKALGAKLIGTV
+
+Chain 1:   80 VEKPERDD----------------------------------WANGLEALQTALKLQKSVNQALLDLHAV
+              2                                         3 33333333333333333         
+Chain 2:  172 GTAQKAQSALKAGAWQVINYREEDLVERLKEITGGKKVRVVYDSVGRDTWERSLDCLQRRGLMVSFGNSS
+
+Chain 1:  116 AADKSDPHMTDF----------------LESPYLSESVETIKKL-----------------GDHITSLKK
+                                          4444444444444444                 555555555
+Chain 2:  242 GAVTGVNLGILNQKGSLYVTRPSLQGYITTREELTEASNELFSLIASGVIKVDVAEQQKYPLKDAQRAHE
+
+Chain 1:  153 LWSSHPG
+              5555555
+Chain 2:  312 ILESRAT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 2ohxA.pdb 374
+Twists 5 ini-len 96 ini-rmsd 2.10 opt-equ 106 opt-rmsd 2.40 chain-rmsd 15.64 Score 106.93 align-len 228 gaps 122 (53.51%)
+P-value 5.36e-01 Afp-num 17154 Identity 5.26% Similarity 11.84%
+Block  0 afp  2 score 44.81 rmsd  1.76 gap 3 (0.16%)
+Block  1 afp  1 score 10.74 rmsd  2.97 gap 0 (0.00%)
+Block  2 afp  3 score 56.84 rmsd  1.70 gap 20 (0.45%)
+Block  3 afp  2 score 32.13 rmsd  1.55 gap 0 (0.00%)
+Block  4 afp  2 score 46.65 rmsd  1.03 gap 0 (0.00%)
+Block  5 afp  2 score 39.94 rmsd  1.77 gap 0 (0.00%)
+
+Chain 1:   14 GLNRTVNLK-FHSSYVYLS-MASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGGRVFLQSVE
+              111111111 111111111 22222222                 3333333333333333333333333
+Chain 2:  165 PLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFG----------LGGVGLSVIMGCKAAGAARIIGVDI
+
+Chain 1:   82 KPE--------------------------------------RDDWANGLEALQTALKLQ-----------
+              3                                        444444444444444444           
+Chain 2:  225 NKDKFAKAKEVGATECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDTMVTALSCCQEAYGVSVIVGV
+
+Chain 1:  103 ----------------------------KSVNQALLDLHAVAADKSDPHMTDFLESPYLSESVETIKKLG
+                                          5555555555555555                        66
+Chain 2:  295 PPDSQNLSMNPMLLLSGRTWKGAIFGGFKSKDSVPKLVADFMAKKFALDPLITHVL------------PF
+
+Chain 1:  145 DHITSLKKLWSSHPGMAE
+              666666666666666666
+Chain 2:  353 EKINEGFDLLRSGESIRT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 1igd_.pdb 61
+Twists 0 ini-len 24 ini-rmsd 2.17 opt-equ 17 opt-rmsd 0.56 chain-rmsd 2.17 Score 57.21 align-len 17 gaps 0 (0.00%)
+P-value 4.32e-02 Afp-num 2161 Identity 5.88% Similarity 35.29%
+Block  0 afp  3 score 57.21 rmsd  2.17 gap 5 (0.17%)
+
+Chain 1:   53 RSEEEKEHAEKLIEYQN
+              11111111111111111
+Chain 2:   27 DAETAEKAFKQYANDNG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 2ptl_.pdb 78
+Twists 0 ini-len 24 ini-rmsd 2.16 opt-equ 40 opt-rmsd 3.56 chain-rmsd 2.16 Score 56.51 align-len 76 gaps 36 (47.37%)
+P-value 3.40e-01 Afp-num 2883 Identity 5.26% Similarity 13.16%
+Block  0 afp  3 score 56.51 rmsd  2.16 gap 4 (0.14%)
+
+Chain 1:    8 HQDCEAGLNRTVNLKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGGRVFL
+              11111111                                    11111111111111111111111111
+Chain 2:   26 FANGSTQTAEFK--------------------------------GTFEKATSEAYAYADTLKKDNGEYTV
+
+Chain 1:   78 QSVEKP
+              111111
+Chain 2:   64 DVADKG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 2spcA.pdb 107
+Twists 1 ini-len 96 ini-rmsd 4.17 opt-equ 68 opt-rmsd 1.62 chain-rmsd 26.17 Score 222.33 align-len 150 gaps 82 (54.67%)
+P-value 2.51e-06 Afp-num 11610 Identity 4.67% Similarity 21.33%
+Block  0 afp  8 score 130.15 rmsd  2.34 gap 42 (0.40%)
+Block  1 afp  4 score 94.20 rmsd  1.19 gap 1 (0.03%)
+
+Chain 1:    7 FHQDCEAGLNRTVNLKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGGRVF
+              11111111111111111111111111111111                                      
+Chain 2:    1 QNLDLQLYMRDCELAESWMSAREAFLNADDDANAGGNVEALIKKHEDFDKAINGHEQKIAALQTVADQLI
+
+Chain 1:   77 LQSVEKPERDDWANGLEALQTALKLQKSVNQALLDLHAVAADKSDPHMTDFLESPYLSESVETIKKLGDH
+                                                         22222222222 222222222222222
+Chain 2:   71 A------------------------------------------QNHYASNLVDE-KRKQVLERWRHLKEG
+
+Chain 1:  147 ITSLKKLWSS
+              2222222222
+Chain 2:   98 LIEKRSRLGD
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 1aj3_.pdb 98
+Twists 1 ini-len 88 ini-rmsd 3.19 opt-equ 98 opt-rmsd 2.61 chain-rmsd 4.57 Score 207.14 align-len 144 gaps 46 (31.94%)
+P-value 1.08e-05 Afp-num 11031 Identity 8.33% Similarity 22.22%
+Block  0 afp  4 score 78.06 rmsd  1.79 gap 7 (0.18%)
+Block  1 afp  7 score 156.28 rmsd  2.16 gap 2 (0.03%)
+
+Chain 1:    9 QDCEAGLNRTVNLKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGGRVFLQ
+              111111111111111111111111111   1111111111                              
+Chain 2:    1 HQFFRDMDDEESWIKEKKLLVSSEDYG---RDLTGVQNLR------------------------------
+
+Chain 1:   79 SVEKPERDDWANGLEALQTALKLQKSVNQALLDLHAVAADKSDPHMTDFLESPYLSESVETIKKLGDHIT
+                         22222222222222222222222222222222222222222  2222222222222222
+Chain 2:   38 -----------KKHKRLEAELAAHEPAIQGVLDTGKKLSDDNTIGKEEIQQR--LAQFVDHWKELKQLAA
+
+Chain 1:  149 SLKK
+              2222
+Chain 2:   95 ARGQ
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 1a21A.pdb 194
+Twists 0 ini-len 24 ini-rmsd 3.70 opt-equ 27 opt-rmsd 3.41 chain-rmsd 3.70 Score 40.11 align-len 71 gaps 44 (61.97%)
+P-value 9.05e-01 Afp-num 4765 Identity 5.63% Similarity 18.31%
+Block  0 afp  3 score 40.11 rmsd  3.70 gap 31 (0.56%)
+
+Chain 1:   21 LKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGG--RVFLQSVEKPERDDW
+              11  111                      11                1  111  111111111111111
+Chain 2:   32 YT--VQISTRLENWKSKCFLTAETECDLTDEVVKDVGQTYMARVLSYPARNTTGFPEEPPFRNSPEFTPY
+
+Chain 1:   89 A
+              1
+Chain 2:  102 L
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 1hwgC.pdb 191
+Twists 0 ini-len 24 ini-rmsd 3.12 opt-equ 36 opt-rmsd 3.65 chain-rmsd 3.12 Score 42.00 align-len 79 gaps 43 (54.43%)
+P-value 8.44e-01 Afp-num 4683 Identity 10.13% Similarity 18.99%
+Block  0 afp  3 score 42.00 rmsd  3.12 gap 3 (0.11%)
+
+Chain 1:    8 HQDCEAGLNRTVNLKFHSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGGRVFL
+              111  111     111  11                                1111111111  111111
+Chain 2:  124 SVDEIVQP-----DPPIALNWTLLNVSLTGIHADIQVRW-------------EAPRNADIQK--GWMVLE
+
+Chain 1:   78 QSVEKPERD
+              111111111
+Chain 2:  174 YELQYKEVN
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1rcd_.pdb 171 with 2clrA.pdb 275
+Twists 3 ini-len 88 ini-rmsd 4.01 opt-equ 103 opt-rmsd 2.49 chain-rmsd 11.25 Score 160.49 align-len 168 gaps 65 (38.69%)
+P-value 4.57e-02 Afp-num 12812 Identity 4.76% Similarity 10.71%
+Block  0 afp  4 score 94.77 rmsd  1.20 gap 0 (0.00%)
+Block  1 afp  2 score 21.89 rmsd  3.84 gap 2 (0.11%)
+Block  2 afp  2 score 47.23 rmsd  0.61 gap 0 (0.00%)
+Block  3 afp  3 score 71.04 rmsd  1.65 gap 0 (0.00%)
+
+Chain 1:   15 LNRT---VNLKFH------------SSYVYLSMASYFNRDDV--ALSNFAKFFRERSEEEKEHAEKLIEY
+              111    11111             1111 1111          11111111111111111111111111
+Chain 2:   12 VSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDGETRKVKAHSQTHRVDLGTL
+
+Chain 1:   68 QNQRGGR---VFLQSVEKPERDDWANGLEALQTALKLQKSV----------------NQALLDLHAVAAD
+              1111111   222222222  22222                               3333333333333
+Chain 2:   82 RGYYNQSEAGSHTVQRMYG--CDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEA
+
+Chain 1:  119 KSDPHMTDFLESPYLSESVETIKKLGDH
+              333 444444444444444444444444
+Chain 2:  150 AHV-AEQLRAYLEGTCVEWLRRYLENGK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 2ohxA.pdb 374
+Twists 0 ini-len 272 ini-rmsd 3.14 opt-equ 315 opt-rmsd 2.76 chain-rmsd 3.14 Score 617.20 align-len 377 gaps 62 (16.45%)
+P-value 0.00e+00 Afp-num 37588 Identity 18.04% Similarity 31.03%
+Block  0 afp 34 score 617.20 rmsd  3.14 gap 106 (0.28%)
+
+Chain 1:    1 ATRIEFHKHGGPEVLQAVEFTPADPAENEIQVENKAIGINFIDTYIRSGLYPPPSLPSGLGTEAAGIVSK
+              1111111111  11111111111111111111111111111111111111111 1111111111111111
+Chain 2:    9 CKAAVLWEEK--KPFSIEEVEVAPPKAHEVRIKMVATGICRSDDHVVSGTLVT-PLPVIAGHEAAGIVES
+
+Chain 1:   71 VGSGVKHIKAGDRVVYAQ-----------------------------------------------SALGA
+              111111111111111111                                               11111
+Chain 2:   76 IGEGVTTVRPGDKVIPLFTPQCGKCRVCKHPEGNFCLKNDLSMPRGTMQDGTSRFTCRGKPIHHFLGTST
+
+Chain 1:   94 YSSVHNIIADKAAILPAAISFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAAGGVGLIACQWAKAL
+              1111111111111111111111111111111111111111111111111111111 11111111111111
+Chain 2:  146 FSQYTVVDEISVAKIDAASPLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFGL-GGVGLSVIMGCKAA
+
+Chain 1:  164 GAK-LIGTVGTAQKAQSALKAGAWQVINYREE--DLVERLKEITGGKKVRVVYDSVGRDTWERSLDCLQR
+              111 1111111111111111111111111111  111111111111111111111111111111111111
+Chain 2:  215 GAARIIGVDINKDKFAKAKEVGATECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDTMVTALSCCQE
+
+Chain 1:  231 R-GLMVSFGNSSGAVTGVNLGILNQKGSLYVTRPSLQGYITTREELTEASNELFSLIASGVIKVDVAEQQ
+              1 111111111 111111111111111111111111111     11111111111111111111111111
+Chain 2:  285 AYGVSVIVGVP-PDSQNLSMNPMLLLSGRTWKGAIFGGF-----KSKDSVPKLVADFMAKKFALDPLITH
+
+Chain 1:  300 KYPLKDAQRAHEILESRATQGSSLLIP
+              11111111111111111111 111111
+Chain 2:  349 VLPFEKINEGFDLLRSGESI-RTILTF
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 1igd_.pdb 61
+Twists 1 ini-len 32 ini-rmsd 3.81 opt-equ 34 opt-rmsd 2.67 chain-rmsd 4.72 Score 68.55 align-len 36 gaps 2 (5.56%)
+P-value 7.17e-01 Afp-num 5022 Identity 16.67% Similarity 25.00%
+Block  0 afp  1 score 22.26 rmsd  1.08 gap 0 (0.00%)
+Block  1 afp  3 score 62.19 rmsd  2.97 gap 0 (0.00%)
+
+Chain 1:  139 PDEQFLFHAA-AGGVGLIACQWAKALGAKLIGTVGT
+              111111111  2222222222222222222222222
+Chain 2:   17 LKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDD
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 2ptl_.pdb 78
+Twists 0 ini-len 32 ini-rmsd 3.65 opt-equ 40 opt-rmsd 4.52 chain-rmsd 3.65 Score 48.11 align-len 54 gaps 14 (25.93%)
+P-value 8.50e-01 Afp-num 7203 Identity 5.56% Similarity 7.41%
+Block  0 afp  4 score 48.11 rmsd  3.65 gap 27 (0.46%)
+
+Chain 1:  139 PDEQFLFHAA-----AGGVGLIACQWAKALGAKLIGTVGTAQKAQSALKAGAWQ
+              1111111111     1111111111111111  1 1 11111111     1111
+Chain 2:   28 NGSTQTAEFKGTFEKATSEAYAYADTLKKDNGEYTVDVADKGYTL-----NIKF
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 2spcA.pdb 107
+Twists 3 ini-len 72 ini-rmsd 6.06 opt-equ 81 opt-rmsd 2.71 chain-rmsd 23.87 Score 92.22 align-len 206 gaps 125 (60.68%)
+P-value 4.82e-01 Afp-num 10886 Identity 2.43% Similarity 10.68%
+Block  0 afp  3 score 61.55 rmsd  2.63 gap 0 (0.00%)
+Block  1 afp  2 score 40.58 rmsd  1.51 gap 0 (0.00%)
+Block  2 afp  2 score 47.86 rmsd  0.65 gap 0 (0.00%)
+Block  3 afp  2 score 33.12 rmsd  2.33 gap 0 (0.00%)
+
+Chain 1:  112 ISFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAAGGVGLIACQWAKALGAKLIGTVGTAQKAQSAL
+              11111111111111111111 1111                            22222222222222222
+Chain 2:    1 QNLDLQLYMRDCELAESWMS-AREAFLNA------------------------DDDANAGGNVEALIKKH
+
+Chain 1:  182 KAGAWQVINYREEDLVERLKEITGGKKVRVVYDSVGRDTWERSLDCLQRRGLMVSFGNSSGAVTGVNLGI
+              2222                                                                  
+Chain 2:   46 EDFDKAINGHEQKIAAL-----------------------------------------------------
+
+Chain 1:  252 LNQKGSLYVTRPSLQGYITTREELTEASNELFSLIASGVIKVDVAEQQKYPLKDAQRAHEILESRA
+                                 3333333333333333333           44444444444444444
+Chain 2:   63 -------------------QTVADQLIAQNHYASNLVDEKRK-------QVLERWRHLKEGLIEKR
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 1aj3_.pdb 98
+Twists 3 ini-len 72 ini-rmsd 5.05 opt-equ 71 opt-rmsd 1.61 chain-rmsd 18.91 Score 85.60 align-len 180 gaps 109 (60.56%)
+P-value 3.60e-01 Afp-num 10385 Identity 1.11% Similarity 5.00%
+Block  0 afp  3 score 53.09 rmsd  2.90 gap 0 (0.00%)
+Block  1 afp  2 score 46.92 rmsd  1.38 gap 0 (0.00%)
+Block  2 afp  2 score 39.90 rmsd  1.40 gap 0 (0.00%)
+Block  3 afp  2 score 43.20 rmsd  1.63 gap 0 (0.00%)
+
+Chain 1:  113 SFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAAGGVGLIACQWAKALGAKLIGTVG------TAQK
+              1111111111111111111 1111            2222222222222222              3333
+Chain 2:    1 HQFFRDMDDEESWIKEKKL-LVSSEDY---------GRDLTGVQNLRKKHKRLEAELAAHEPAIQGVLDT
+
+Chain 1:  177 AQSALKAGAWQVINYREEDLVERLKEITGGKKVRVVYDSVGRDTWERSLDCLQRRGLMVSFGNSSGAVTG
+              333333333333                                                          
+Chain 2:   61 GKKLSDDNTIGKEEIQQRLAQF------------------------------------------------
+
+Chain 1:  247 VNLGILNQKGSLYVTRPSLQGYITTREELTEASNELFSLI
+                                      4444444444444444
+Chain 2:   83 ------------------------VDHWKELKQLAAARGQ
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 1a21A.pdb 194
+Twists 2 ini-len 56 ini-rmsd 4.09 opt-equ 66 opt-rmsd 3.59 chain-rmsd 10.28 Score 45.83 align-len 157 gaps 91 (57.96%)
+P-value 9.68e-01 Afp-num 17222 Identity 0.64% Similarity 3.82%
+Block  0 afp  2 score 18.31 rmsd  2.81 gap 19 (0.54%)
+Block  1 afp  2 score 32.47 rmsd  2.86 gap 13 (0.45%)
+Block  2 afp  3 score 40.84 rmsd  2.68 gap 39 (0.62%)
+
+Chain 1:    1 ATRIEFHKH----------------GGPEVLQAVEF---TPADPA------------ENEIQVENKAIGI
+              111111111                1111111111    222222            22222222222  
+Chain 2:   65 VGQTYMARVLSYPARNTTGFPEEPPFRNSPEFTPYLDTNLGQPTIQSFEQVGTKLNVTVQDARTLVTFLS
+
+Chain 1:   40 NFIDTYIRSGLYPPPSLPSGLGTEAAGIVSKVGSGVKHIKAG-------------DRVVYAQSALGAYSS
+                                  333333333                          333333         
+Chain 2:  141 LRAVF---------------GKDLNYTLYYWRKKTATTNTNEFLIDVDKGENYCFSVQAVI---------
+
+Chain 1:   97 VHNIIADKAAILPAAIS
+                333333333333333
+Chain 2:  192 --PSRKRKQRSPESLTE
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 1hwgC.pdb 191
+Twists 1 ini-len 40 ini-rmsd 2.01 opt-equ 59 opt-rmsd 3.01 chain-rmsd 17.88 Score 47.00 align-len 133 gaps 74 (55.64%)
+P-value 9.19e-01 Afp-num 16620 Identity 6.02% Similarity 9.77%
+Block  0 afp  2 score 28.48 rmsd  2.26 gap 5 (0.24%)
+Block  1 afp  3 score 37.67 rmsd  1.82 gap 60 (0.71%)
+
+Chain 1:    1 ATRIEFHKH-GGPEVLQAVEFTPADPAENEI--QVENKAIGINFIDTYIRSGLYPPPSLPSGLGTEAAGI
+              111111111 111111111111           2222222222                    2222222
+Chain 2:  105 IPYCIKLTSNGGTVDEKCFSVDEIVQPDPPIALNWTLLNVSLT--------------------GIHADIQ
+
+Chain 1:   68 VSKVGSGV-------------KHIK---------------AGDRVVYAQSALGAYSSVHNIIA
+              222                  222                222222222222        222
+Chain 2:  155 VRWEAPRNADIQKGWMVLEYELQYKEVNETKWKMMDPILTTSVPVYSLKVDK--------EYE
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1qorA.pdb 326 with 2clrA.pdb 275
+Twists 4 ini-len 112 ini-rmsd 4.25 opt-equ 145 opt-rmsd 3.86 chain-rmsd 16.49 Score 119.81 align-len 320 gaps 175 (54.69%)
+P-value 5.02e-01 Afp-num 24827 Identity 2.81% Similarity 9.06%
+Block  0 afp  4 score 34.20 rmsd  3.67 gap 44 (0.58%)
+Block  1 afp  2 score 44.52 rmsd  1.27 gap 0 (0.00%)
+Block  2 afp  2 score 47.06 rmsd  0.80 gap 0 (0.00%)
+Block  3 afp  3 score 45.95 rmsd  1.58 gap 38 (0.61%)
+Block  4 afp  3 score 51.10 rmsd  2.10 gap 2 (0.08%)
+
+Chain 1:   32 VENKAIGINFIDTYIRSGLYPPPSLPSGLGTEAAGIVSKVGSGVKHIKAGDRVVYAQSALGAYSSVHNII
+              111111111111111              111111111         111111111111111    1111
+Chain 2:    5 MRYFFTSVSRPGRGE--------------PRFIAVGYV---------DDTQFVRFDSDAASQ----RMEP
+
+Chain 1:  102 ADKAAILPAAISFEQAAASFLKGLTVYYLLRKTYEIKPDEQFLFHAAAGGVGLIACQWAKALGA------
+              11            2222222222222222                  3333333333333333      
+Chain 2:   48 RAPWIEQ-------EGPEYWDGETRKVKAHS-----------------QTHRVDLGTLRGYYNQSEAGSH
+
+Chain 1:  166 ------------------KLIGTVGTAQKAQSALKAGAWQVINYREEDLVERLKEITGGKKVRVVYDSVG
+                                444444444 4                                44444444 
+Chain 2:   94 TVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKED-------------------------LRSWTAAD-
+
+Chain 1:  218 RDTWERSLDCLQRRGLMVSFGNSSGAVTGVNLGILNQKGSLYVTRPSLQGYITTREELTEASNELFSLIA
+              44444444444444                                      555555555555555555
+Chain 2:  138 MAAQTTKHKWEAAHVAEQ----------------------------------LRAYLEGTCVEWLRRYLE
+
+Chain 1:  288 SGVIKV-DVAEQQKYPLKDAQRAHEILESR--ATQGSSLL
+              555 55 55555                    55555555
+Chain 2:  174 NGKETLQRTDAPKTHMTHHAVSDHEATLRCWALSFYPAEI
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ohxA.pdb 374 with 1igd_.pdb 61
+Twists 1 ini-len 32 ini-rmsd 5.08 opt-equ 36 opt-rmsd 2.87 chain-rmsd 4.53 Score 71.61 align-len 38 gaps 2 (5.26%)
+P-value 7.61e-01 Afp-num 5605 Identity 2.63% Similarity 5.26%
+Block  0 afp  3 score 59.87 rmsd  3.53 gap 4 (0.14%)
+Block  1 afp  1 score 22.41 rmsd  1.03 gap 0 (0.00%)
+
+Chain 1:  191 QGSTCAVFG-LGGVGLSVIMGCKAAGAA-RIIGVDINK
+              111111111 111111111111111111 222222222
+Chain 2:   17 LKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDDAT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ohxA.pdb 374 with 2ptl_.pdb 78
+Twists 1 ini-len 32 ini-rmsd 4.62 opt-equ 34 opt-rmsd 3.04 chain-rmsd 4.74 Score 54.48 align-len 46 gaps 12 (26.09%)
+P-value 9.22e-01 Afp-num 8307 Identity 10.87% Similarity 15.22%
+Block  0 afp  3 score 48.36 rmsd  2.44 gap 0 (0.00%)
+Block  1 afp  1 score 22.36 rmsd  1.04 gap 0 (0.00%)
+
+Chain 1:  183 AVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGA----ARIIGVDI
+              1       1111111111111111111111111     22222222
+Chain 2:   22 ANLIFANGSTQTAEFKGTFEKATSEAYAYADTLKKDNGEYTVDVAD
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ohxA.pdb 374 with 2spcA.pdb 107
+Twists 3 ini-len 72 ini-rmsd 8.78 opt-equ 77 opt-rmsd 2.47 chain-rmsd 31.53 Score 80.88 align-len 175 gaps 98 (56.00%)
+P-value 6.57e-01 Afp-num 9876 Identity 2.86% Similarity 9.71%
+Block  0 afp  3 score 54.22 rmsd  2.31 gap 4 (0.14%)
+Block  1 afp  2 score 42.61 rmsd  1.48 gap 0 (0.00%)
+Block  2 afp  2 score 31.62 rmsd  2.74 gap 1 (0.06%)
+Block  3 afp  2 score 46.96 rmsd  0.99 gap 0 (0.00%)
+
+Chain 1:  164 SPLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGAARIIGVDINKDKFAKAK
+              1111111111 111111111 111111111       222222222222222                  
+Chain 2:   11 DCELAESWMS-AREAFLNAD-DDANAGGNVEA-----LIKKHEDFDKAINGHEQKIAALQTVADQL----
+
+Chain 1:  234 EVGATECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDTMVTALSCCQEAYGVSVIVGVPPDSQNLSM
+                                                  333333333333333333                
+Chain 2:   70 ------------------------------------IAQNHYASNLVDEKRKQVLE--------------
+
+Chain 1:  304 NPMLLLSGRTWKGAIFGGFKSKDSVPKLVADFMAK
+                                 4444444444444444
+Chain 2:   90 -------------------RWRHLKEGLIEKRSRL
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ohxA.pdb 374 with 1aj3_.pdb 98
+Twists 3 ini-len 72 ini-rmsd 6.28 opt-equ 80 opt-rmsd 2.88 chain-rmsd 16.36 Score 79.19 align-len 174 gaps 94 (54.02%)
+P-value 7.07e-01 Afp-num 9638 Identity 4.60% Similarity 8.05%
+Block  0 afp  3 score 49.93 rmsd  3.68 gap 4 (0.14%)
+Block  1 afp  2 score 42.07 rmsd  1.54 gap 0 (0.00%)
+Block  2 afp  2 score 34.47 rmsd  1.75 gap 0 (0.00%)
+Block  3 afp  2 score 46.99 rmsd  0.83 gap 0 (0.00%)
+
+Chain 1:  165 PLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGAARIIGVDINKDKFAKAKE
+              111111111 1111111111111111        2222222222222222222       3333333333
+Chain 2:    2 QFFRDMDDE-ESWIKEKKLLVSSEDYGRDLTGV-QNLRKKHKRLEAELAAHEPAIQG---VLDTGKKLSD
+
+Chain 1:  235 VGATECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDTMVTALSCCQEAYGVSVIVGVPPDSQNLSMN
+              3333333333                                                            
+Chain 2:   67 DNTIGKEEIQQRLAQ-------------------------------------------------------
+
+Chain 1:  305 PMLLLSGRTWKGAIFGGFKSKDSVPKLVADFMAK
+                                4444444444444444
+Chain 2:   82 ------------------FVDHWKELKQLAAARG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ohxA.pdb 374 with 1a21A.pdb 194
+Twists 5 ini-len 88 ini-rmsd 5.73 opt-equ 114 opt-rmsd 3.03 chain-rmsd 14.69 Score 46.67 align-len 274 gaps 160 (58.39%)
+P-value 9.73e-01 Afp-num 20573 Identity 4.01% Similarity 9.49%
+Block  0 afp  2 score 29.75 rmsd  3.06 gap 11 (0.41%)
+Block  1 afp  2 score 32.52 rmsd  1.65 gap 28 (0.64%)
+Block  2 afp  2 score 22.29 rmsd  4.38 gap 0 (0.00%)
+Block  3 afp  2 score 24.45 rmsd  4.86 gap 12 (0.43%)
+Block  4 afp  1 score 18.05 rmsd  1.99 gap 0 (0.00%)
+Block  5 afp  2 score 31.12 rmsd  1.85 gap 37 (0.70%)
+
+Chain 1:    3 AGKVIKCKAAVLWEEKKPFSIEEVEVAPPK---AHEVRIKMVATGICRSDDHVVSGTLVTPLPVIAGHEA
+              111111111          1111111111    2222222222                           
+Chain 2:    7 AYNLTWKST----------NFKTILEWEPKSIDHVYTVQISTRLE-------------------------
+
+Chain 1:   70 AGIVESIGEGVTTVRPGDKVIPLFTPQCGKCRVCKHPEGNFCLKNDLSMPRGTMQDGTSRFTCR------
+              222222222                           3333333333   333                  
+Chain 2:   42 NWKSKCFLTA--------------------------ETECDLTDEVVKDVGQTYMARVLSYPARNTTGFP
+
+Chain 1:  134 -----GKPIHHFLGTSTFSQYTVVDEISVAKIDAASPL---------------EKVCLIGCGFSTGYGSA
+                   444444444444          444444                    55 555555555555  
+Chain 2:   88 EEPPFRNSPEFTPYLDT----------NLGQPTIQSFEQVGTKLNVTVQDARTLVTFLSLRAVFGKDLNY
+
+Chain 1:  184 VKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGAARIIGVDINKDKFAKAKEVGATECVNPQDYK
+                    666666666666  6666      66666                   6666666666
+Chain 2:  152 TLY---YWRKKTATTNTN--EFLIDVDKGENYCFS-------------------VQAVIPSRKR
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ohxA.pdb 374 with 1hwgC.pdb 191
+Twists 5 ini-len 96 ini-rmsd 6.39 opt-equ 104 opt-rmsd 2.94 chain-rmsd 23.39 Score 57.02 align-len 318 gaps 214 (67.30%)
+P-value 9.50e-01 Afp-num 19877 Identity 2.52% Similarity 6.29%
+Block  0 afp  2 score 28.74 rmsd  2.56 gap 27 (0.63%)
+Block  1 afp  2 score 39.57 rmsd  1.22 gap 30 (0.65%)
+Block  2 afp  2 score 21.91 rmsd  2.70 gap 12 (0.43%)
+Block  3 afp  2 score 38.74 rmsd  2.03 gap 36 (0.69%)
+Block  4 afp  2 score 29.58 rmsd  2.31 gap 38 (0.70%)
+Block  5 afp  2 score 28.80 rmsd  2.22 gap 0 (0.00%)
+
+Chain 1:    1 STAGKVIKCKA----AVLWEEKKPFSI----------EEVEVAPPK------AHEVRIKMVATGICRSDD
+              11111111111    11                    11111111       22222222          
+Chain 2:   40 SPERETFSCHWTDPIQLFYTRRNQEWKECPDYVSAGENSCYFNSSFTSIWIPYCIKLTSN----------
+
+Chain 1:   51 HVVSGTLVTPLPVIAGHEAAGIVESIGEGVTTVRPGDKVIPLFTPQCGKCRVCKHPEGNFCLKNDLSMPR
+                                  222222222                          33333333       
+Chain 2:  115 --------------------GGTVDEKCFSVDE----------------------IVQPDPPIA------
+
+Chain 1:  121 GTMQDGTSRFTCRGKPIHHFLGTSTFSQYTVVDEISVAKIDAASPLEKVCLIGCGFSTGYGSAVKVAKVT
+                 3333333333                                            44444444     
+Chain 2:  137 ---LNWTLLNVSLTGIHADIQVRWEA-------------------------------PRNADIQKGW---
+
+Chain 1:  191 QGSTCAVFGLGGVGLSVIMGCKAAGAARIIGVDINKDKFAKAKEVGATECVNPQDYKKPIQEVLTEMSNG
+              555555555                 5555555555                                  
+Chain 2:  170 MVLEYELQYKEVNETKWKMMDPI---LTTSVPVYSLKVDKEYEVR-------------------------
+
+Chain 1:  261 GVDFSFEVIGRLDTMVTALSCCQEAYGVSVIVGVPPDS
+                               666666666666666666666
+Chain 2:  212 -----------------VRSKQRNSGNYGEFSEVLYVT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ohxA.pdb 374 with 2clrA.pdb 275
+Twists 3 ini-len 80 ini-rmsd 4.98 opt-equ 92 opt-rmsd 3.53 chain-rmsd 13.56 Score 96.88 align-len 204 gaps 112 (54.90%)
+P-value 7.83e-01 Afp-num 27907 Identity 3.92% Similarity 9.31%
+Block  0 afp  3 score 47.27 rmsd  3.42 gap 1 (0.04%)
+Block  1 afp  2 score 47.18 rmsd  0.80 gap 0 (0.00%)
+Block  2 afp  3 score 45.30 rmsd  1.65 gap 41 (0.63%)
+Block  3 afp  2 score 47.12 rmsd  0.90 gap 0 (0.00%)
+
+Chain 1:  158 AKIDAASPLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGA-----------
+              1     11111111 1111111111111111            2222222222222222           
+Chain 2:   42 SQRMEPRAPWIEQE-GPEYWDGETRKVKAHS------------QTHRVDLGTLRGYYNQSEAGSHTVQRM
+
+Chain 1:  217 ------------ARIIGVDINKDKFAKAKEVGATECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDT
+                          333333333333                                 3333333333  3
+Chain 2:   99 YGCDVGSDWRFLRGYHQYAYDGKDYIALKED--------------------------LRSWTAADMA--A
+
+Chain 1:  275 MVTALSCCQEAYGVSVIVGVPPDSQNLSMNPMLLLSGRTWKGAIFGGFKSKDSVPKLVADFMAK
+              33333333333 3                                   4444444444444444
+Chain 2:  141 QTTKHKWEAAHVAEQLRAYL----------------------------EGTCVEWLRRYLENGK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1igd_.pdb 61 with 2ptl_.pdb 78
+Twists 0 ini-len 48 ini-rmsd 1.93 opt-equ 57 opt-rmsd 2.33 chain-rmsd 1.93 Score 114.50 align-len 62 gaps 5 (8.06%)
+P-value 1.51e-05 Afp-num 1140 Identity 12.90% Similarity 19.35%
+Block  0 afp  6 score 114.50 rmsd  1.93 gap 11 (0.19%)
+
+Chain 1:    4 AVTTYKLVINGKT-LKGETTTKAVDAETAEKAFKQYANDNGV---DGVWTYDDATKTFTVTE
+              1111111111111 111111111111 111111111111111   11111111111111111
+Chain 2:   16 EEVTIKANLIFANGSTQTAEFKGTFE-KATSEAYAYADTLKKDNGEYTVDVADKGYTLNIKF
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1igd_.pdb 61 with 2spcA.pdb 107
+Twists 0 ini-len 16 ini-rmsd 0.32 opt-equ 17 opt-rmsd 0.42 chain-rmsd 0.32 Score 47.95 align-len 17 gaps 0 (0.00%)
+P-value 2.45e-02 Afp-num 1212 Identity 5.88% Similarity 17.65%
+Block  0 afp  2 score 47.95 rmsd  0.32 gap 0 (0.00%)
+
+Chain 1:   27 DAETAEKAFKQYANDNG
+              11111111111111111
+Chain 2:   61 ALQTVADQLIAQNHYAS
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1igd_.pdb 61 with 1aj3_.pdb 98
+Twists 0 ini-len 16 ini-rmsd 0.31 opt-equ 17 opt-rmsd 0.34 chain-rmsd 0.31 Score 47.93 align-len 17 gaps 0 (0.00%)
+P-value 1.95e-02 Afp-num 1178 Identity 5.88% Similarity 29.41%
+Block  0 afp  2 score 47.93 rmsd  0.31 gap 0 (0.00%)
+
+Chain 1:   27 DAETAEKAFKQYANDNG
+              11111111111111111
+Chain 2:   82 FVDHWKELKQLAAARGQ
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1igd_.pdb 61 with 1a21A.pdb 194
+Twists 0 ini-len 48 ini-rmsd 3.98 opt-equ 57 opt-rmsd 4.61 chain-rmsd 3.98 Score 64.87 align-len 74 gaps 17 (22.97%)
+P-value 2.13e-01 Afp-num 3342 Identity 0.00% Similarity 8.11%
+Block  0 afp  6 score 64.87 rmsd  3.98 gap 22 (0.31%)
+
+Chain 1:    2 TPAVTTYKLVINGKTLKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDD--------------ATKTF
+              1111111111111 1111111111111111  1111111111111111111              11111
+Chain 2:   27 SIDHVYTVQISTR-LENWKSKCFLTAETEC--DLTDEVVKDVGQTYMARVLSYPARNTTGFPEEPPFRNS
+
+Chain 1:   58 TVTE
+              1111
+Chain 2:   96 PEFT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1igd_.pdb 61 with 1hwgC.pdb 191
+Twists 1 ini-len 40 ini-rmsd 3.44 opt-equ 45 opt-rmsd 3.02 chain-rmsd 4.67 Score 57.00 align-len 70 gaps 25 (35.71%)
+P-value 5.22e-01 Afp-num 3226 Identity 7.14% Similarity 17.14%
+Block  0 afp  3 score 49.57 rmsd  3.91 gap 1 (0.04%)
+Block  1 afp  2 score 31.74 rmsd  2.56 gap 12 (0.43%)
+
+Chain 1:    4 AVTTYKLVINGKTLKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDD------------ATKTFTVTE
+              1111111111111 111111111111111            22222222            222222222
+Chain 2:  171 VLEYELQYKEVNETKWKMMDPILTTSVPVYSLKV-------DKEYEVRVRSKQRNSGNYGEFSEVLYVTL
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1igd_.pdb 61 with 2clrA.pdb 275
+Twists 2 ini-len 48 ini-rmsd 1.84 opt-equ 57 opt-rmsd 2.10 chain-rmsd 12.20 Score 78.02 align-len 115 gaps 58 (50.43%)
+P-value 3.61e-01 Afp-num 4323 Identity 2.61% Similarity 9.57%
+Block  0 afp  2 score 42.18 rmsd  1.30 gap 3 (0.16%)
+Block  1 afp  2 score 47.72 rmsd  0.54 gap 0 (0.00%)
+Block  2 afp  2 score 34.71 rmsd  2.87 gap 2 (0.11%)
+
+Chain 1:    1 MTPAVTTYKLVINGKTLKGETTTKAV------------------------------------DAETAEKA
+              11111111111111  111111111                                     22222222
+Chain 2:    3 HSMRYFFTSVSRPG--RGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDGETRKVKAH
+
+Chain 1:   35 FKQYANDNGV----------------DGVWTYDDA--TKTFTVTE
+              222222222                 333333333  33333333
+Chain 2:   71 SQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQ
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ptl_.pdb 78 with 2spcA.pdb 107
+Twists 1 ini-len 24 ini-rmsd 3.96 opt-equ 28 opt-rmsd 2.19 chain-rmsd 5.14 Score 47.45 align-len 28 gaps 0 (0.00%)
+P-value 5.46e-01 Afp-num 1576 Identity 0.00% Similarity 3.57%
+Block  0 afp  1 score 18.53 rmsd  1.91 gap 0 (0.00%)
+Block  1 afp  2 score 46.90 rmsd  0.74 gap 0 (0.00%)
+
+Chain 1:   32 QTAEFKGTFEKATSEAYAYADTLKKDNG
+              1111111122222222222222222222
+Chain 2:   31 DANAGGNVEALIKKHEDFDKAINGHEQK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ptl_.pdb 78 with 1aj3_.pdb 98
+Twists 0 ini-len 24 ini-rmsd 2.29 opt-equ 31 opt-rmsd 3.30 chain-rmsd 2.29 Score 47.87 align-len 34 gaps 3 (8.82%)
+P-value 3.48e-01 Afp-num 1576 Identity 8.82% Similarity 23.53%
+Block  0 afp  3 score 47.87 rmsd  2.29 gap 0 (0.00%)
+
+Chain 1:   28 NGSTQ---TAEFKGTFEKATSEAYAYADTLKKDN
+              11111   11111111111111111111111111
+Chain 2:   14 IKEKKLLVSSEDYGRDLTGVQNLRKKHKRLEAEL
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ptl_.pdb 78 with 1a21A.pdb 194
+Twists 2 ini-len 56 ini-rmsd 4.74 opt-equ 59 opt-rmsd 3.14 chain-rmsd 10.79 Score 55.72 align-len 76 gaps 17 (22.37%)
+P-value 6.62e-01 Afp-num 4661 Identity 2.63% Similarity 11.84%
+Block  0 afp  3 score 40.61 rmsd  3.96 gap 11 (0.31%)
+Block  1 afp  2 score 17.60 rmsd  2.64 gap 2 (0.11%)
+Block  2 afp  2 score 41.07 rmsd  1.28 gap 2 (0.11%)
+
+Chain 1:    5 ETPETPETDSEEEVTIKANLIFAN---GSTQTAEFKGTFEKATSEAYAYADTLKKDNGEYTVDVADKGYT
+              11111111  1   1111111111   1111111222222222 22222222      33333333  33
+Chain 2:   94 NSPEFTPYLDTNLGQPTIQSFEQVGTKLNVTVQDARTLVTFLS-LRAVFGKD------LNYTLYYWR-KK
+
+Chain 1:   72 LNIKFA
+              333333
+Chain 2:  165 TATTNT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ptl_.pdb 78 with 1hwgC.pdb 191
+Twists 1 ini-len 56 ini-rmsd 4.03 opt-equ 65 opt-rmsd 3.56 chain-rmsd 16.91 Score 60.87 align-len 106 gaps 41 (38.68%)
+P-value 4.18e-01 Afp-num 4539 Identity 4.72% Similarity 14.15%
+Block  0 afp  4 score 46.35 rmsd  3.84 gap 7 (0.18%)
+Block  1 afp  3 score 44.52 rmsd  2.47 gap 31 (0.56%)
+
+Chain 1:    1 ENKEETPETPETDSEEEVTIKANLIFANGSTQTAEFKGTFEKATSEAYAYADTLKKDNGEYTVDVADK--
+              111 1 11111 111111111111111111111111111         22222222222222222222  
+Chain 2:  121 KCFSVDEIVQP-DPPIALNWTLLNVSLTGIHADIQVRWEA--------PRNADIQKGWMVLEYELQYKEV
+
+Chain 1:   69 ---------------------------GYTLNIKFA
+                                         222222222
+Chain 2:  182 NETKWKMMDPILTTSVPVYSLKVDKEYEVRVRSKQR
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2ptl_.pdb 78 with 2clrA.pdb 275
+Twists 1 ini-len 48 ini-rmsd 3.34 opt-equ 58 opt-rmsd 3.10 chain-rmsd 8.88 Score 78.62 align-len 117 gaps 59 (50.43%)
+P-value 3.73e-01 Afp-num 6010 Identity 0.85% Similarity 5.13%
+Block  0 afp  2 score 41.85 rmsd  1.68 gap 0 (0.00%)
+Block  1 afp  4 score 58.01 rmsd  3.91 gap 27 (0.46%)
+
+Chain 1:   16 EEVTIKANLIFANGS-TQTAEFKG----------------------------------TFEKATSEAYAY
+              111111111111111 11111                                     222222222222
+Chain 2:    4 SMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDGETRKVKAHSQT
+
+Chain 1:   51 ADTLKKDN-----------GEYTVDVADKGY--------TLNIKFAG
+              22222222           2222222222          22222222
+Chain 2:   74 HRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDG
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2spcA.pdb 107 with 1aj3_.pdb 98
+Twists 2 ini-len 96 ini-rmsd 4.88 opt-equ 94 opt-rmsd 2.02 chain-rmsd 25.78 Score 220.61 align-len 100 gaps 6 (6.00%)
+P-value 1.05e-06 Afp-num 7648 Identity 6.00% Similarity 21.00%
+Block  0 afp  3 score 70.23 rmsd  0.74 gap 0 (0.00%)
+Block  1 afp  5 score 106.92 rmsd  3.51 gap 0 (0.00%)
+Block  2 afp  4 score 78.88 rmsd  3.44 gap 0 (0.00%)
+
+Chain 1:   10 RDCELAESWMSAREAFLNADDDAN--AGGNVEALIKKHEDFDKAINGHEQKIAALQTVADQLIAQNHYAS
+              111111111111111111111111  2222  22222222222222222222222222222222222  3
+Chain 2:    1 HQFFRDMDDEESWIKEKKLLVSSEDYGRDL--TGVQNLRKKHKRLEAELAAHEPAIQGVLDTGKKLSDDN
+
+Chain 1:   78 NLVDEKRKQVLERWRHLKEGLIEKRSRLGD
+              333333333333333333333333333333
+Chain 2:   69 TIGKEEIQQRLAQFVDHWKELKQLAAARGQ
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2spcA.pdb 107 with 1a21A.pdb 194
+Twists 0 ini-len 16 ini-rmsd 3.71 opt-equ 8 opt-rmsd 1.64 chain-rmsd 3.71 Score 24.43 align-len 8 gaps 0 (0.00%)
+P-value 9.85e-01 Afp-num 2110 Identity 12.50% Similarity 12.50%
+Block  0 afp  2 score 24.43 rmsd  3.71 gap 6 (0.27%)
+
+Chain 1:   33 NAGGNVEA
+              11111111
+Chain 2:   48 FLTAETEC
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2spcA.pdb 107 with 1hwgC.pdb 191
+Twists 1 ini-len 24 ini-rmsd 3.24 opt-equ 26 opt-rmsd 2.86 chain-rmsd 5.48 Score 29.25 align-len 52 gaps 26 (50.00%)
+P-value 9.76e-01 Afp-num 2145 Identity 1.92% Similarity 11.54%
+Block  0 afp  2 score 24.79 rmsd  3.96 gap 24 (0.60%)
+Block  1 afp  1 score 23.78 rmsd  0.38 gap 0 (0.00%)
+
+Chain 1:   17 SWMSAREAFLNADDDANAGGNVEALIKKHEDFDKAINGHEQKIAALQTVADQ
+              11 11  111    11111111111                   22222222
+Chain 2:  133 PPIAL--NWT----LLNVSLTGIHADIQVRWEA-----------PRNADIQK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 2spcA.pdb 107 with 2clrA.pdb 275
+Twists 2 ini-len 72 ini-rmsd 2.11 opt-equ 71 opt-rmsd 1.28 chain-rmsd 9.48 Score 157.28 align-len 122 gaps 51 (41.80%)
+P-value 3.52e-03 Afp-num 7733 Identity 3.28% Similarity 9.02%
+Block  0 afp  4 score 94.66 rmsd  1.21 gap 0 (0.00%)
+Block  1 afp  2 score 42.96 rmsd  1.69 gap 0 (0.00%)
+Block  2 afp  3 score 70.47 rmsd  1.72 gap 1 (0.04%)
+
+Chain 1:    1 QNLDLQLYMRDCELAESWMSAREAFLNADDDANAGGNVEALI----------------------------
+              11111111111111111111111111111111                                      
+Chain 2:   55 EGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYI
+
+Chain 1:   43 ------------KKHEDFDKAINGHEQKIAALQTVA-DQLIAQNHYASNLVD
+                          222222222222222333333333 333333333333333
+Chain 2:  125 ALKEDLRSWTAADMAAQTTKHKWEAAHVAEQLRAYLEGTCVEWLRRYLENGK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1aj3_.pdb 98 with 1a21A.pdb 194
+Twists 0 ini-len 16 ini-rmsd 2.25 opt-equ 32 opt-rmsd 3.11 chain-rmsd 2.25 Score 27.55 align-len 81 gaps 49 (60.49%)
+P-value 9.20e-01 Afp-num 1976 Identity 1.23% Similarity 13.58%
+Block  0 afp  2 score 27.55 rmsd  2.25 gap 7 (0.30%)
+
+Chain 1:   14 IKEKKLLVSSEDYGRDLTGVQNLRKKHKRLEAELAAHEPAIQGVLDTGKKLSDDNTIGKEEIQQRLAQFV
+              11 1111  11111111  111   1111111111 1                                 
+Chain 2:   38 TRLENWK--SKCFLTAE--TEC---DLTDEVVKDVGQTYMARVLSYPARNTTGFPEEPPFRNS-------
+
+Chain 1:   84 DHWKELKQLAA
+                     1111
+Chain 2:   96 -------PEFT
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1aj3_.pdb 98 with 1hwgC.pdb 191
+Twists 0 ini-len 8 ini-rmsd 0.29 opt-equ 8 opt-rmsd 0.29 chain-rmsd 0.29 Score 23.87 align-len 8 gaps 0 (0.00%)
+P-value 8.94e-01 Afp-num 1974 Identity 0.00% Similarity 12.50%
+Block  0 afp  1 score 23.87 rmsd  0.29 gap 0 (0.00%)
+
+Chain 1:   53 AIQGVLDT
+              11111111
+Chain 2:  160 PRNADIQK
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1aj3_.pdb 98 with 2clrA.pdb 275
+Twists 2 ini-len 64 ini-rmsd 3.07 opt-equ 80 opt-rmsd 3.27 chain-rmsd 10.68 Score 124.59 align-len 142 gaps 62 (43.66%)
+P-value 1.26e-01 Afp-num 7343 Identity 2.82% Similarity 10.56%
+Block  0 afp  1 score 21.50 rmsd  1.29 gap 0 (0.00%)
+Block  1 afp  4 score 91.50 rmsd  2.77 gap 0 (0.00%)
+Block  2 afp  3 score 69.93 rmsd  1.89 gap 1 (0.04%)
+
+Chain 1:   15 KEKKLLVSSEDYGRDLTGVQNLRKKHKRLEAELAAHEPAIQGVLDTGKKLSDDNT---------------
+              1111111  1111111111222222222222222222222222222222222  2               
+Chain 2:   38 SDAASQR--MEPRAPWIEQEGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGS
+
+Chain 1:   70 ------------------------------------------IGKEEIQQRLAQFV-DHWKELKQLAAAR
+                                                        33333333333333 3333333333333
+Chain 2:  106 DWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQLRAYLEGTCVEWLRRYLENG
+
+Chain 1:   97 GQ
+              33
+Chain 2:  176 KE
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1a21A.pdb 194 with 1hwgC.pdb 191
+Twists 1 ini-len 120 ini-rmsd 3.04 opt-equ 150 opt-rmsd 2.96 chain-rmsd 4.21 Score 233.34 align-len 210 gaps 60 (28.57%)
+P-value 1.15e-05 Afp-num 12696 Identity 9.52% Similarity 19.05%
+Block  0 afp  4 score 66.42 rmsd  2.03 gap 6 (0.16%)
+Block  1 afp 11 score 184.29 rmsd  3.24 gap 69 (0.44%)
+
+Chain 1:    6 RAYNLTWKSTN-FKTILEWEPKSIDHVYTVQISTRLENWKSKCFLTAE---TECDLTDEVVKDVGQTYMA
+              11111111111 111111111     111111111111111111       222222222   222222 
+Chain 2:   32 EPKFTKCRSPERETFSCHWTD-----PIQLFYTRRNQEWKECPDYVSAGENSCYFNSSFT---SIWIPYC
+
+Chain 1:   72 RVLSYPARNTTGFPEEPPFRNSPEFTPYLDTNLGQPTIQSFEQVG-------TKLNVTVQDARTLVTFLS
+                                    22222222222222222222222       222222222222   222
+Chain 2:  109 IKLTSNGGTVDE----------KCFSVDEIVQPDPPIALNWTLLNVSLTGIHADIQVRWEAPRN---ADI
+
+Chain 1:  141 LRAVFGKDLNYTLYYWR-----KKTAT-TNTNEFLIDVDKGE-NYCFSVQAVIPSRKRKQRSPESLTECT
+              222222  222222222     22222 22222222222222 2222222222222  222222222222
+Chain 2:  166 QKGWMV--LEYELQYKEVNETKWKMMDPILTTSVPVYSLKVDKEYEVRVRSKQRNS--GNYGEFSEVLYV
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1a21A.pdb 194 with 2clrA.pdb 275
+Twists 4 ini-len 112 ini-rmsd 3.10 opt-equ 141 opt-rmsd 2.83 chain-rmsd 15.14 Score 112.65 align-len 293 gaps 152 (51.88%)
+P-value 2.46e-01 Afp-num 15128 Identity 2.73% Similarity 10.24%
+Block  0 afp  2 score 43.43 rmsd  2.16 gap 4 (0.20%)
+Block  1 afp  2 score 36.71 rmsd  1.48 gap 3 (0.16%)
+Block  2 afp  2 score 42.72 rmsd  1.90 gap 0 (0.00%)
+Block  3 afp  2 score 37.30 rmsd  2.71 gap 0 (0.00%)
+Block  4 afp  6 score 68.49 rmsd  3.49 gap 53 (0.52%)
+
+Chain 1:    6 RAYNLTWKSTN----FKTILEWEPKSIDHVYTVQISTRLE---NWKSKCFLTAETEC-------------
+              11111111111    1111111111       22222222   22222222                   
+Chain 2:    4 SMRYFFTSVSRPGRGEPRFIAVGYVDDTQ---FVRFDSDAASQRMEPRAPWIEQEGPEYWDGETRKVKAH
+
+Chain 1:   56 ---------DLTDEVVKDVGQTYMARVLSYPARNTTGFPEEPPFRNSPEF--------------------
+                       3333333333333333333333  3333                                 
+Chain 2:   71 SQTHRVDLGTLRGYYNQSEAGSHTVQRMYGC--DVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADM
+
+Chain 1:   99 -------------------------------------TPYLDTNLGQPTIQSFEQVG---TKLNVTVQDA
+                                                   4444444444444 555555   5555555555
+Chain 2:  139 AAQTTKHKWEAAHVAEQLRAYLEGTCVEWLRRYLENGKETLQRTDAPKTH-MTHHAVSDHEATLRCWALS
+
+Chain 1:  129 RTLVTFLSLRAVFGKDLNYTLYYWRKKTA---TTNT----------NEFLIDVDKGENYCFSVQAVIPSR
+              5      555     555555555 5555   5555          55555555555555555555    
+Chain 2:  208 F------YPA-----EITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGL
+
+Chain 1:  195 KRKQRSPESLTEC
+                   55555555
+Chain 2:  267 P----KPLTLRWE
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+Align 1hwgC.pdb 191 with 2clrA.pdb 275
+Twists 3 ini-len 112 ini-rmsd 4.25 opt-equ 101 opt-rmsd 3.60 chain-rmsd 19.95 Score 126.30 align-len 271 gaps 170 (62.73%)
+P-value 2.91e-01 Afp-num 14757 Identity 2.58% Similarity 10.33%
+Block  0 afp  4 score 64.71 rmsd  3.66 gap 63 (0.66%)
+Block  1 afp  3 score 46.82 rmsd  3.30 gap 0 (0.00%)
+Block  2 afp  4 score 65.63 rmsd  5.05 gap 6 (0.16%)
+Block  3 afp  3 score 33.21 rmsd  4.63 gap 1 (0.04%)
+
+Chain 1:   63 PIQLFYTRRNQEWKECPDYVSAGENSCYFNSSFTSIWIPYCIKLTSNGGTVDEKCFSVDEIVQPDPP---
+              1111111111                         1111111111111111111111  111        
+Chain 2:    4 SMRYFFTSVSRPGR---------------------GEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWI
+
+Chain 1:  135 -----------------------------------------IALNWTLLNVSLTGIHADIQVRWEAPRNA
+                                                       22222222222222222222222222   
+Chain 2:   53 EQEGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKD
+
+Chain 1:  164 DIQKG---------------------------------------------------WMVLEYELQYKEVN
+                                                                      33333333333333
+Chain 2:  123 YIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQLRAYLEGTCVEWLRRYLENGKETLQRTDAPKTHMTHH
+
+Chain 1:  183 ETKWKMMDPILTTSVPVYSLKVDK---------EYEVRVRSKQRNSGNYGEFSEVLYVTLP
+                                               4444444444444444444  4444444
+Chain 2:  193 AVSDHEATLRCWALSFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKW--AAVVVPS
+
+Note: positions are from PDB; the numbers between alignments are block index
+
+#Time used 0.90 mins

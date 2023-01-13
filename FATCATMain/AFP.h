@@ -100,7 +100,7 @@ class AFP
 		}
 
 		//assign a given afp to this
-		void	operator = (AFP &afp) 
+		void	operator = (const AFP &afp) 
 		{
 			i = afp.i;
 			j = afp.j;

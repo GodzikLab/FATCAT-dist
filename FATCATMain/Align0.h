@@ -6,6 +6,7 @@
 //2. a similarity matrix (any type, eg. defined by structural similarity)
 #ifndef ALIGN0_H
 #define ALIGN0_H
+#include <cstring>
 #include "basic.h"
 
 class ALIGN0
